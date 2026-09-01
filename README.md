@@ -1,2 +1,2 @@
 # WebtierGD
-My website for stuff.
+Website for displaying my tierlist lists and other socials.
