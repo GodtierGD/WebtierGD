@@ -1,4 +1,4 @@
-.Navigation{
+.navigation{
     background-color: lightsalmon;
     border-color: black;
     border-style: solid;
@@ -8,7 +8,7 @@
     align-items:center;
 }
 
-.Navigation h1{
+.navigation h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
