@@ -1,0 +1,21 @@
+/* NAVBAR -------------- */
+
+.navigation{
+    background-color: lightsalmon;
+    border-color: black;
+    border-style: solid;
+
+    display:flex;
+    justify-content:center;
+    flex-direction: row;
+    align-items:center;
+}
+
+.navigation h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.navigation image{
+    size: 150px;
+}
