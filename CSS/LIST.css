@@ -48,7 +48,7 @@ body {
     border-color: rgb(145, 145, 145);
     background: #e3e3e3;
     display: grid;
-    grid-template-columns: 160px 1fr;
+    grid-template-columns: 340px 1fr;
     overflow: hidden;
 }
  
