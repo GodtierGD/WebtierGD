@@ -42,7 +42,7 @@
     border-radius: 6px;
     border-style: dashed;
     border-color: rgba(0, 0, 0, 0.489);
-    background: #16181f;
+    background: #e3e3e3;
     display: grid;
     grid-template-columns: 160px 1fr;
     overflow: hidden;
