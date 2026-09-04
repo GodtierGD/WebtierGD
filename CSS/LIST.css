@@ -19,3 +19,22 @@
 .navigation image{
     size: 150px;
 }
+
+/* TESTING */
+
+#demon-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.demon-card {
+    padding: 20px;
+    border-radius: 15px;
+
+    background: linear-gradient(
+        135deg,
+        #ff9966,
+        #ff5e62
+    );
+}
