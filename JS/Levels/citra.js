@@ -7,7 +7,7 @@ export const citra = {
     // shown as the colored title bar + rank badge on the card
     gradient: {
         start: "#aeaeae",
-        end: "#787878"
+        end: "#ffffff"
     },
  
     // optional — omit or leave as null to render the "No thumbnail" state

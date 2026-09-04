@@ -7,7 +7,7 @@ export const kowareta = {
     // shown as the colored title bar + rank badge on the card
     gradient: {
         start: "#c8b86b",
-        end: "#8d8355"
+        end: "#ffffff"
     },
  
     // optional — omit or leave as null to render the "No thumbnail" state

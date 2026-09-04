@@ -7,7 +7,7 @@ export const sonicwave = {
     // shown as the colored title bar + rank badge on the card
     gradient: {
         start: "#b57c43",
-        end: "#7f5a35"
+        end: "#ffffff"
     },
  
     // optional — omit or leave as null to render the "No thumbnail" state
