@@ -28,6 +28,9 @@
 
 #demon-list {
     margin-top: 20px;
+    width: 80%;
+    margin: 30px auto;
+
     max-height: 75vh;
     overflow-y: auto;
     display: flex;
@@ -35,7 +38,7 @@
     gap: 15px;
 }
 
-.demon-card {
+.level-card {
     padding: 20px;
     border-radius: 15px;
 
