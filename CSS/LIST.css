@@ -42,11 +42,5 @@
     padding: 20px;
     border-radius: 6px;
     border-style: dashed;
-    border-color:black;
-
-    background: linear-gradient(
-        270deg,
-        #ff9966,
-        white
-    );
+    border-color:rgba(0, 0, 0, 0.489);
 }

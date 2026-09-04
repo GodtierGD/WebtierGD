@@ -4,6 +4,11 @@ export const kowareta = {
     verifier: "test",
     difficulty: "Extreme Demon",
 
+    gradient: {
+        start: "#ff9966",
+        end: "#ffffff"
+    },
+
     records: [
         // lots of information here
     ],
