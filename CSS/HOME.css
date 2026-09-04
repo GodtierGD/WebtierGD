@@ -1,7 +1,11 @@
 /* NAVBAR -------------- */
 
 .navigation{
-    background-color: lightsalmon;
+    background: linear-gradient(
+        135deg,
+        #ff9966,
+        white
+    );
     border-color: black;
     border-bottom: solid;
 
