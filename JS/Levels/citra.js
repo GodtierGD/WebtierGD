@@ -5,7 +5,7 @@ export const citra = {
     difficulty: "Extreme Demon",
 
     gradient: {
-        start: "#c8c8c8",
+        start: "#aeaeae",
         end: "#ffffff"
     },
 

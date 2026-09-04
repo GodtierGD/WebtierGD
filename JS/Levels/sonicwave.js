@@ -5,7 +5,7 @@ export const sonicwave = {
     difficulty: "Extreme Demon",
 
     gradient: {
-        start: "#766a51",
+        start: "#aa7037",
         end: "#ffffff"
     },
 
