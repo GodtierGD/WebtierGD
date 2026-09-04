@@ -36,7 +36,6 @@ function createLevelCard(level, index) {
         </div>
         <div class="level-card__body">
             <div class="level-card__title" style="background:${barColor}">${level.name}</div>
-            <p class="level-card__sub">By ${level.creator}. Verified by ${level.verifier}.</p>
             <div class="level-card__stats">
                 <div class="level-card__attempts">
                     ${level.stats.attempts} attempts

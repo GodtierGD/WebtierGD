@@ -1,8 +1,5 @@
 export const sonicwave = {
     name: "Sonic Wave",
-    creator: "idk",
-    verifier: "test",
-    difficulty: "Extreme Demon",
  
     // shown as the colored title bar + rank badge on the card
     gradient: {
