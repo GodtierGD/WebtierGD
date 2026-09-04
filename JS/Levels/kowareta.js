@@ -1,4 +1,4 @@
-const kowareta = {
+export const kowareta = {
     name: "Kowareta",
     creator: "Gablor",
     verifier: "test",
