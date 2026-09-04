@@ -1,6 +1,6 @@
 export const kowareta = {
-    name: "Kowareta",
-    creator: "Gablor",
+    name: "Citra",
+    creator: "idk",
     verifier: "test",
     difficulty: "Extreme Demon",
 
