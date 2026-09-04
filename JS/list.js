@@ -1,4 +1,9 @@
 const levelOrder = [
+    "kowareta",
+    "kowareta",
+    "kowareta",
+    "kowareta",
+    "kowareta",
     "kowareta"
 ];
 
