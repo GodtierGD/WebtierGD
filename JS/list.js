@@ -9,17 +9,6 @@ const levelOrder = [
 
 const list = document.getElementById("demon-list");
 
-const card = document.createElement("div");
-card.classList.add("level-card");
-
-card.style.background = `
-    linear-gradient(
-        270deg,
-        ${level.gradient.start},
-        ${level.gradient.end}
-    )
-`;
-
 async function loadLevels() {
 
     for (let index = 0; index < levelOrder.length; index++) {
@@ -34,6 +23,14 @@ async function loadLevels() {
 
         card.classList.add("level-card");
 
+        card.style.background = `
+            linear-gradient(
+                270deg,
+                ${level.gradient.start},
+                ${level.gradient.end}
+            )
+        `;
+        
         card.innerHTML = `
             <h2>#${index + 1} ${level.name}</h2>
             <p>Creator: ${level.creator}</p>
