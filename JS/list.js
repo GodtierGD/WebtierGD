@@ -1,10 +1,7 @@
 const levelOrder = [
     "kowareta",
     "citra",
-    "sonicwave",
-    "kowareta",
-    "kowareta",
-    "kowareta"
+    "sonicwave"
 ];
 
 const list = document.getElementById("demon-list");
