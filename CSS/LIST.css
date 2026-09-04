@@ -2,7 +2,7 @@
 
 .navigation{
     background: linear-gradient(
-        135deg,
+        90deg,
         #ff9966,
         white
     );
@@ -27,6 +27,7 @@
 /* TESTING */
 
 #demon-list {
+    margin-top: 20px;
     display: flex;
     flex-direction: column;
     gap: 15px;
