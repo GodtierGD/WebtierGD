@@ -1,4 +1,4 @@
-export const kowareta = {
+export const sonicwave = {
     name: "Sonic Wave",
     creator: "Sunix",
     verifier: "test",

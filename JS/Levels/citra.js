@@ -1,4 +1,4 @@
-export const kowareta = {
+export const citra = {
     name: "Citra",
     creator: "idk",
     verifier: "test",

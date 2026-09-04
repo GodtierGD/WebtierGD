@@ -1,7 +1,7 @@
 const levelOrder = [
     "kowareta",
     "citra",
-    "sonic wave",
+    "sonicwave",
     "kowareta",
     "kowareta",
     "kowareta"
