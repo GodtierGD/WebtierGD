@@ -4,18 +4,29 @@ const levelOrder = [
 
 const list = document.getElementById("demon-list");
 
-levelOrder.forEach((level, index) => {
+async function loadLevels() {
 
-    const card = document.createElement("div");
+    for (let index = 0; index < levelOrder.length; index++) {
 
-    card.classList.add("level-card");
+        const levelName = levelOrder[index];
 
-    card.innerHTML = `
-        <h2>#${index + 1} ${level.name}</h2>
-        <p>Creator: ${level.creator}</p>
-        <p>Verifier: ${level.verifier}</p>
-        <p>Difficulty: ${level.difficulty}</p>
-    `;
+        const module = await import(`./Levels/${levelName}.js`);
 
-    list.appendChild(card);
-});
+        const level = module[levelName];
+
+        const card = document.createElement("div");
+
+        card.classList.add("level-card");
+
+        card.innerHTML = `
+            <h2>#${index + 1} ${level.name}</h2>
+            <p>Creator: ${level.creator}</p>
+            <p>Verifier: ${level.verifier}</p>
+            <p>Difficulty: ${level.difficulty}</p>
+        `;
+
+        list.appendChild(card);
+    }
+}
+
+loadLevels();
