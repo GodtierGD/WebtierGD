@@ -3,7 +3,7 @@
 .navigation{
     background-color: lightsalmon;
     border-color: black;
-    border-style: solid;
+    border-bottom: solid;
 
     display:flex;
     justify-content:center;
