@@ -1,7 +1,7 @@
 const levelOrder = [
     "kowareta",
-    "kowareta",
-    "kowareta",
+    "citra",
+    "sonic wave",
     "kowareta",
     "kowareta",
     "kowareta"
@@ -30,7 +30,7 @@ async function loadLevels() {
                 ${level.gradient.end}
             )
         `;
-        
+
         card.innerHTML = `
             <h2>#${index + 1} ${level.name}</h2>
             <p>Creator: ${level.creator}</p>

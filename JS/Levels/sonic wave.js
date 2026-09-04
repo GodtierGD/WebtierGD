@@ -5,7 +5,7 @@ export const kowareta = {
     difficulty: "Extreme Demon",
 
     gradient: {
-        start: "#c4ab21",
+        start: "#766a51",
         end: "#ffffff"
     },
 
