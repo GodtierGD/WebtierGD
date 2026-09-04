@@ -1,3 +1,7 @@
+const levelOrder = [
+    "kowareta"
+];
+
 const list = document.getElementById("demon-list");
 
 levelOrder.forEach((level, index) => {
@@ -15,7 +19,3 @@ levelOrder.forEach((level, index) => {
 
     list.appendChild(card);
 });
-
-const levelOrder = [
-    "kowareta"
-];
