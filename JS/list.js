@@ -1,37 +1,21 @@
-const demons = [
-    {
-        name: "Bloodbath",
-        creator: "Riot",
-        difficulty: "Extreme Demon",
-        position: 1
-    },
-    {
-        name: "Slaughterhouse",
-        creator: "icedcave",
-        difficulty: "Extreme Demon",
-        position: 2
-    },
-    {
-        name: "Tidal Wave",
-        creator: "OniLink",
-        difficulty: "Extreme Demon",
-        position: 3
-    }
-];
+const list = document.getElementById("demon-list");
 
-const demonList = document.getElementById("demon-list");
+levelOrder.forEach((level, index) => {
 
-demons.forEach(demon => {
     const card = document.createElement("div");
 
-    card.classList.add("demon-card");
+    card.classList.add("level-card");
 
     card.innerHTML = `
-        <h2>${demon.position}. ${demon.name}</h2>
-        <p>Creator: ${demon.creator}</p>
-        <p>Difficulty: ${demon.difficulty}</p>
+        <h2>#${index + 1} ${level.name}</h2>
+        <p>Creator: ${level.creator}</p>
+        <p>Verifier: ${level.verifier}</p>
+        <p>Difficulty: ${level.difficulty}</p>
     `;
 
-    demonList.appendChild(card);
+    list.appendChild(card);
 });
 
+const levelOrder = [
+    "kowareta"
+];
