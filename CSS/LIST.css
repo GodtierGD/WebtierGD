@@ -48,14 +48,14 @@ body {
     border-color: rgb(145, 145, 145);
     background: #e3e3e3;
     display: grid;
-    grid-template-columns: 160px 1fr;
+    grid-template-columns: 220px 1fr;
     overflow: hidden;
 }
  
 .level-card__thumb {
     position: relative;
     background: #000 center / cover no-repeat;
-    min-height: 140px;
+    aspect-ratio: 16 / 9;
     display: flex;
     align-items: center;
     justify-content: center;
