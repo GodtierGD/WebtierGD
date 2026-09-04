@@ -26,6 +26,10 @@
 
 /* TESTING */
 
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 #demon-list {
     margin-top: 20px;
     width: 80%;
