@@ -2,9 +2,9 @@
 
 .navigation{
     background: linear-gradient(
-        90deg,
+        180deg,
         #ff9966,
-        white
+        rgb(242, 179, 137)
     );
     border-color: black;
     border-bottom: solid;
