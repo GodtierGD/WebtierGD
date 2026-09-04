@@ -41,9 +41,10 @@
 .level-card {
     padding: 20px;
     border-radius: 15px;
+    border-right:#ff9966, solid, 20px;
 
     background: linear-gradient(
-        135deg,
+        180deg,
         #ff9966,
         white
     );
