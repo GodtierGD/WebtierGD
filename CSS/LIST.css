@@ -43,12 +43,14 @@ body {
 }
 
 .level-card {
+
+    min-height: 200px;
     border-radius: 6px;
     border-style: dashed;
     border-color: rgb(194, 194, 194);
     background: white;
     display: grid;
-    grid-template-columns: 220px 1fr;
+    grid-template-columns: 320px 1fr;
     overflow: hidden;
 }
  
@@ -59,7 +61,7 @@ body {
     align-items: center;
     justify-content: center;
     color: #8b8f9b;
-    font-size: 14px;
+    font-size: 22px;
 }
  
 .level-card__rank {
