@@ -8,7 +8,7 @@ export const sonicwave = {
     },
  
     // optional — omit or leave as null to render the "No thumbnail" state
-    thumbnail: "./Thumbnails/citra.png",
+    thumbnail: "./Resources/TB/peggle wave.png",
  
     link: "https://youtube.com/watch?v=example",
     rating: "9/10",
