@@ -8,7 +8,7 @@ export const citra = {
     },
  
     // optional — omit or leave as null to render the "No thumbnail" state
-    thumbnail: "./Resources/TB/kowareta.png",
+    thumbnail: "./Resources/TB/citra.png",
  
     link: "https://youtube.com/watch?v=example",
     rating: "9/10",
