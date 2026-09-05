@@ -45,8 +45,8 @@ body {
 .level-card {
     border-radius: 6px;
     border-style: dashed;
-    border-color: rgb(145, 145, 145);
-    background: #e3e3e3;
+    border-color: rgb(194, 194, 194);
+    background: white;
     display: grid;
     grid-template-columns: 220px 1fr;
     overflow: hidden;
