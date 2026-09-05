@@ -1,6 +1,10 @@
 /* NAVBAR -------------- */
+body {
+    margin: 0;
+}
 
 .navigation{
+    width: 100%;
     background: linear-gradient(
         180deg,
         #ff9966,
