@@ -44,7 +44,7 @@ body {
 
 .level-card {
 
-    min-height: 200px;
+    min-height: 180px;
     border-radius: 6px;
     border-style: dashed;
     border-color: rgb(194, 194, 194);
@@ -55,6 +55,8 @@ body {
 }
  
 .level-card__thumb {
+    width: 100%;
+    aspect-ratio: 16 / 9;
     position: relative;
     background: #000 center / contain no-repeat;
     display: flex;
