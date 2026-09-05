@@ -51,7 +51,7 @@ body {
     min-height: 180px;
     border-radius: 6px;
     border-style: solid;
-    border-color: rgb(0, 0, 0);
+    border-color: rgb(212, 212, 212);
     background: white;
     display: grid;
     grid-template-columns: 320px 1fr;
