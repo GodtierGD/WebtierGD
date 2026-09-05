@@ -55,7 +55,6 @@ body {
 .level-card__thumb {
     position: relative;
     background: #000 center / cover no-repeat;
-    aspect-ratio: 16 / 9;
     display: flex;
     align-items: center;
     justify-content: center;
