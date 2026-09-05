@@ -11,7 +11,7 @@ export const sonicwave = {
     thumbnail: "./Resources/TB/peggle wave.png",
  
     link: "https://youtube.com/watch?v=example",
-    rating: "9/10",
+    rating: "0/10",
  
     // everything shown in the stats row of the card
     stats: {
