@@ -50,7 +50,7 @@ body {
 
     min-height: 180px;
     border-radius: 6px;
-    border-style: dashed;
+    border-style: double;
     border-color: rgb(194, 194, 194);
     background: white;
     display: grid;
