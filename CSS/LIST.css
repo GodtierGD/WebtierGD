@@ -39,7 +39,7 @@ body {
     width: 80%;
     margin: 30px auto;
 
-    height: 75vh;
+    height: 85vh;
     overflow-y: auto;
     display: flex;
     flex-direction: column;
