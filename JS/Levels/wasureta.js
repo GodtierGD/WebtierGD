@@ -16,7 +16,7 @@ export const wasureta = {
     // everything shown in the stats row of the card
     stats: {
         attempts: "7k",
-        note: "+ 120k old",   // optional, small grey text next to attempts
+        note: "~120k old",   // optional, small grey text next to attempts
         beatWhen: 280,          // rank required to beat this when it was placed
         wf: 95                  // weakest %, just the number
     }

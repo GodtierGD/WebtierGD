@@ -16,7 +16,7 @@ export const kowareta = {
     // everything shown in the stats row of the card
     stats: {
         attempts: "12.4k",
-        note: "(~65k old)",   // optional, small grey text next to attempts
+        note: "~65k old",   // optional, small grey text next to attempts
         beatWhen: 293,          // rank required to beat this when it was placed
         wf: 94                  // weakest %, just the number
     }

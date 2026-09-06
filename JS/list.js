@@ -3,7 +3,8 @@ const levelOrder = [
     "citra",
     "sonicwave",
     "arcticlights",
-    "wasureta"
+    "wasureta",
+    "hyperpara"
 ];
 
 const list = document.getElementById("demon-list");
