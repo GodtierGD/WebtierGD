@@ -19,7 +19,7 @@ const socialsData = [
     { label: "Aredl Account",    url: "https://aredl.net/profile/user/godtiergd",    icon: "Resources/Icons/icon-aredl.png" },
     { label: "Aredl Clan",    url: "https://aredl.net/profile/clan/f362d293-cb04-40e9-b86d-5ef2001a596c",    icon: "Resources/Icons/icon-aredl.png" },
     { label: "Clan Discord",     url: "https://discord.gg/GyFYMrrRE5",   icon: "Resources/Icons/icon-discord.png" },
-    { label: "YT Discord",     url: "https://discord.gg/GyFYMrrRE5",   icon: "Resources/Icons/icon-discord.png" },
+    { label: "YT Discord",     url: "https://discord.gg/YHV2E7EpC",   icon: "Resources/Icons/icon-discord.png" },
     { label: "Github",     url: "https://github.com/GodtierGD",   icon: "Resources/Icons/icon-github.png" },
     { label: "Twitter (dead)",     url: "https://x.com/GDgodtier/all",   icon: "Resources/Icons/icon-twitter.png" }
 ];
