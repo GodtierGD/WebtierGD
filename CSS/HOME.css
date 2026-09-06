@@ -38,18 +38,18 @@ body {
     padding: 0 24px;
     align-items: start;
 }
- 
+
 .col-left {
     display: flex;
     flex-direction: column;
     gap: 24px;
 }
- 
+
 .col-right {
     display: flex;
     flex-direction: column;
 }
- 
+
 /* ====================================================
    SHARED PANEL STYLES
 ==================================================== */
@@ -59,7 +59,7 @@ body {
     border-radius: 14px;
     overflow: hidden;
 }
- 
+
 .panel-header {
     background: var(--orange-gradient);
     border-bottom: 2px solid var(--panel-border);
@@ -68,16 +68,16 @@ body {
     justify-content: center;
     align-items: center;
 }
- 
+
 .panel-title {
     height: 40px;
     width: auto;
 }
- 
+
 .panel-body {
     padding: 20px 28px;
 }
- 
+
 /* ====================================================
    WELCOME PANEL
 ==================================================== */
@@ -89,20 +89,20 @@ body {
     text-align: center;
     gap: 18px;
 }
- 
+
 .welcome-title {
     max-width: 480px;
     width: 100%;
     height: auto;
 }
- 
+
 .welcome-text {
     margin: 0;
     color: #6f7580;
     font-size: 1.15rem;
     line-height: 1.5;
 }
- 
+
 .view-list-btn {
     display: inline-block;
     background: var(--orange-gradient);
@@ -116,12 +116,12 @@ body {
     margin-top: 8px;
     transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
- 
+
 .view-list-btn:hover {
     transform: translateY(-2px);
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
 }
- 
+
 /* ====================================================
    CHANGELOG PANEL
 ==================================================== */
@@ -131,37 +131,37 @@ body {
     padding-top: 20px;
     padding-bottom: 20px;
 }
- 
+
 .changelog-group {
     margin-bottom: 22px;
 }
- 
+
 .changelog-group:last-child {
     margin-bottom: 0;
 }
- 
+
 .changelog-date {
     font-weight: bold;
     color: #1a1a1a;
     margin-bottom: 6px;
     font-size: 1rem;
 }
- 
+
 .changelog-entry {
     margin: 0 0 4px 0;
     font-size: 1.05rem;
     line-height: 1.4;
 }
- 
+
 .changelog-level {
     color: var(--changelog-orange);
     font-weight: bold;
 }
- 
+
 .changelog-info {
     color: var(--changelog-grey);
 }
- 
+
 /* ====================================================
    SOCIALS PANEL
 ==================================================== */
@@ -174,7 +174,7 @@ body {
     padding-top: 20px;
     padding-bottom: 20px;
 }
- 
+
 .social-item {
     display: flex;
     align-items: center;
@@ -186,24 +186,24 @@ body {
     color: #111111;
     transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
- 
+
 .social-item:hover {
     transform: translateY(-2px);
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
- 
+
 .social-icon {
     width: 42px;
     height: 42px;
     object-fit: contain;
     flex-shrink: 0;
 }
- 
+
 .social-label {
     font-weight: bold;
     font-size: 1.3rem;
 }
- 
+
 /* ====================================================
    RESPONSIVE
 ==================================================== */
@@ -211,16 +211,16 @@ body {
     .page-grid {
         grid-template-columns: 1fr;
     }
- 
+
     .navigation {
         flex-wrap: wrap;
         gap: 16px;
     }
- 
+
     .nav-links {
         gap: 18px;
     }
- 
+
     .nav-links a {
         font-size: 1.1rem;
     }
@@ -238,11 +238,11 @@ body {
     --social-card-bg: #fbe6d3;
     --font-body: Verdana, Geneva, Tahoma, sans-serif;
 }
- 
+
 * {
     box-sizing: border-box;
 }
- 
+
 body {
     margin: 0;
     background: #ffffff;

@@ -3,7 +3,7 @@
    ----------------------------------------------------
    Edit this file whenever you want to add a new update
    to the homepage changelog. Nothing else needs to
-   change - render.js reads this automatically.
+   change - Render.js reads this automatically.
 
    Add a new object to the TOP of the array for the
    newest date. If a date already has entries, just add

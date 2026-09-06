@@ -2,8 +2,8 @@
    RENDER LOGIC
    ----------------------------------------------------
    You shouldn't need to edit this file. It just reads
-   changelogData (changelog.js) and socialsData
-   (socials.js) and builds the HTML for each panel.
+   changelogData (Changelog.js) and socialsData
+   (Socials.js) and builds the HTML for each panel.
 ==================================================== */
 
 document.addEventListener("DOMContentLoaded", () => {
