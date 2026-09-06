@@ -14,8 +14,8 @@
 ==================================================== */
 
 const socialsData = [
-    { label: "Main Channel",     url: "https://youtube.com/",  icon: "Resources/Icons/icon-youtube.png" },
-    { label: "Clips + Progress", url: "https://youtube.com/",  icon: "Resources/Icons/icon-youtube.png" },
-    { label: "Aredl Account",    url: "https://aredl.net/",    icon: "Resources/Icons/icon-aredl.png" },
-    { label: "Clan Discord",     url: "https://discord.gg/",   icon: "Resources/Icons/icon-discord.png" }
+    { label: "Main Channel",     url: "https://www.youtube.com/@GodtierGD",  icon: "Resources/Icons/icon-youtube.png" },
+    { label: "Clips + Progress", url: "https://www.youtube.com/@Godgmd",  icon: "Resources/Icons/icon-youtube.png" },
+    { label: "Aredl Account",    url: "https://aredl.net/profile/user/godtiergd",    icon: "Resources/Icons/icon-aredl.png" },
+    { label: "Clan Discord",     url: "https://discord.gg/GyFYMrrRE5",   icon: "Resources/Icons/icon-discord.png" }
 ];
