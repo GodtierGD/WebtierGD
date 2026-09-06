@@ -71,7 +71,7 @@ body {
 }
 
 .panel-title {
-    height: 46px;
+    height: 52px;
     width: auto;
 }
 
@@ -194,8 +194,8 @@ body {
 }
 
 .social-icon {
-    width: 46px;
-    height: 46px;
+    width: 52px;
+    height: 52px;
     object-fit: contain;
     flex-shrink: 0;
 }
