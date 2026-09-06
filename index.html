@@ -2,6 +2,7 @@
 <html>
 
     <head>
+        <meta charset="UTF-8">
         <title> GTCRATE </title>
         <link rel="icon" href="Resources/Icons/WEBICON.png" type="image/png">
         <link rel="stylesheet" href="CSS/HOME.css"/>
@@ -16,7 +17,52 @@
             <a href="PLANNED.html"><img src="Resources/Text/UN_SOON.png" onmouseover="this.src='Resources/Text/SOON.png';" onmouseout="this.src='Resources/Text/UN_SOON.png';"></a>
         </div>
 
+        <!-- PAGE CONTENT -->
+        <main class="page-grid">
 
+            <div class="col-left">
+
+                <!-- WELCOME PANEL -->
+                <section class="panel welcome-panel">
+                    <img src="Resources/Text/title-welcome.png" alt="Welcome to GodtierCrate!" class="welcome-title">
+                    <p class="welcome-text">
+                        This list ranks the hardest levels completed<br>
+                        by GodtierGD —— (including unrated levels)
+                    </p>
+                    <a href="LIST.html" class="view-list-btn">view list</a>
+                </section>
+
+                <!-- CHANGELOG PANEL -->
+                <section class="panel changelog-panel">
+                    <div class="panel-header">
+                        <img src="Resources/Text/title-changelog.png" alt="Changelog" class="panel-title">
+                    </div>
+                    <div class="panel-body changelog-scroll" id="changelog-container">
+                        <!-- entries injected by JS/Changelog.js + JS/Render.js -->
+                    </div>
+                </section>
+
+            </div>
+
+            <aside class="col-right">
+
+                <!-- SOCIALS PANEL -->
+                <section class="panel socials-panel">
+                    <div class="panel-header">
+                        <img src="Resources/Text/title-socials.png" alt="Socials" class="panel-title">
+                    </div>
+                    <div class="panel-body socials-scroll" id="socials-container">
+                        <!-- links injected by JS/Socials.js + JS/Render.js -->
+                    </div>
+                </section>
+
+            </aside>
+
+        </main>
+
+        <script src="JS/Changelog.js"></script>
+        <script src="JS/Socials.js"></script>
+        <script src="JS/Render.js"></script>
     </body>
 
 </html>

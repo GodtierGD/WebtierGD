@@ -98,7 +98,7 @@ body {
 
 .welcome-text {
     margin: 0;
-    color: #6f7580;
+    color: #ffffff;
     font-size: 1.15rem;
     line-height: 1.5;
 }
@@ -231,10 +231,10 @@ body {
 ==================================================== */
 :root {
     --orange-gradient: linear-gradient(180deg, #ff9966, rgb(242, 179, 137));
-    --panel-bg: #eef4fb;
+    --panel-bg: #ffffff;
     --panel-border: #000000;
     --changelog-orange: #f2934f;
-    --changelog-grey: #8b8f96;
+    --changelog-grey: #9b9b9b;
     --social-card-bg: #fbe6d3;
     --font-body: Verdana, Geneva, Tahoma, sans-serif;
 }
