@@ -152,3 +152,47 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
+/* CLAUDE AAAA */
+
+/* ====================================================
+   RESPONSIVE
+==================================================== */
+@media (max-width: 900px) {
+    .page-grid {
+        grid-template-columns: 1fr;
+        width: 92%;
+    }
+
+    .navigation {
+        flex-wrap: wrap;
+        gap: 16px;
+    }
+
+    .navigation a img {
+        height: 34px;
+    }
+}
+
+/* ====================================================
+   ROOT / RESET
+==================================================== */
+:root {
+    --orange-gradient: linear-gradient(180deg, #ff9966, rgb(242, 179, 137));
+    --panel-bg: #ffffff;
+    --panel-border: #bbbbbb;
+    --changelog-orange: #f2934f;
+    --changelog-grey: #959595;
+    --social-card-bg: #fbe6d3;
+    --font-body: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #ffffff;
+    font-family: var(--font-body);
+}
