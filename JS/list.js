@@ -56,7 +56,7 @@ function createLevelCard(level, index) {
                 </div>
                 <div class="level-card__meta">
                     Beat when #${level.stats.beatWhen}<br>
-                    WF: ${level.stats.wf}%
+                    WF: ${level.stats.wf}%${level.stats.count}
                 </div>
             </div>
             <div class="level-card__footer">

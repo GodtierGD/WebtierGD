@@ -2,19 +2,20 @@ export const baushavortex = {
     name: "Bausha Vortex",
  
     gradient: {
-        start: "#7f289a",
-        end: "#b13ad5"
+        start: "#1155cc",
+        end: "#6995e1"
     },
  
-    thumbnail: "./Resources/TB/catalyze.png",
+    thumbnail: "./Resources/TB/replacement.png",
  
-    link: "https://www.youtube.com/watch?v=OfeFIh3O7HE",
+    link: "https://www.youtube.com/watch?v=5JmNIdIYVtk&t=3s",
     rating: "7/10",
  
     stats: {
         attempts: "6k",
         note: "",   
         beatWhen: 429,          
-        wf: 91 + "+2"                  
+        wf: 91,
+        count: "x2"                  
     }
 };
