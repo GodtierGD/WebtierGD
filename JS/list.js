@@ -5,7 +5,8 @@ const levelOrder = [
     "arcticlights",
     "wasureta",
     "hyperpara",
-    "catalyze"
+    "catalyze",
+    "baushavortex"
 ];
 
 const list = document.getElementById("demon-list");
