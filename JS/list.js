@@ -6,7 +6,8 @@ const levelOrder = [
     "wasureta",
     "hyperpara",
     "catalyze",
-    "baushavortex"
+    "baushavortex",
+    "quantumprocessing"
 ];
 
 const list = document.getElementById("demon-list");

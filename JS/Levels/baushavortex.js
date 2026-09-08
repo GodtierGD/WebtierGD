@@ -14,7 +14,7 @@ export const baushavortex = {
     stats: {
         attempts: "6k",
         note: "",   
-        beatWhen: 429,          
+        beatWhen: 562,          
         wf: 91,
         count: "x2"                  
     }
