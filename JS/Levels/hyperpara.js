@@ -7,7 +7,10 @@ export const hyperpara = {
     },
  
     thumbnail: "./Resources/TB/hyper paracosm.png",
- 
+    tags: [
+        "./Resources/Tags/tagHARDEST2.png"
+    ],
+
     link: "https://www.youtube.com/watch?v=dUMWBIth5DI",
     rating: "9/10",
  
