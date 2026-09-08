@@ -15,6 +15,7 @@ export const catalyze = {
         attempts: "7.4k",
         note: "",   
         beatWhen: 429,          
-        wf: 97                  
+        wf: 97,
+        count: ""                   
     }
 };

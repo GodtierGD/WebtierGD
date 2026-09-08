@@ -15,6 +15,7 @@ export const wasureta = {
         attempts: "7k",
         note: "~120k old",   
         beatWhen: 280,          
-        wf: 95                  
+        wf: 95,
+        count: ""                   
     }
 };

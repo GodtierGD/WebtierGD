@@ -18,6 +18,7 @@ export const hyperpara = {
         attempts: "44.7k",
         note: "",   
         beatWhen: 256,          
-        wf: 94                  
+        wf: 94,
+        count: ""                  
     }
 };

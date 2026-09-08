@@ -18,6 +18,7 @@ export const kowareta = {
         attempts: "12.4k",
         note: "~65k old",   
         beatWhen: 293,          
-        wf: 94                  
+        wf: 94,
+        count: ""                   
     }
 };

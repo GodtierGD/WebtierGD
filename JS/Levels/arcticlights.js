@@ -15,6 +15,7 @@ export const arcticlights = {
         attempts: "22.9k",
         note: "",   
         beatWhen: 278,          
-        wf: 91                  
+        wf: 91,
+        count: ""                   
     }
 };

@@ -15,6 +15,7 @@ export const sonicwave = {
         attempts: "28.9k",
         note: "",   
         beatWhen: 366,          
-        wf: 77                  
+        wf: 77,
+        count: ""                   
     }
 };

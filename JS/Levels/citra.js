@@ -18,6 +18,7 @@ export const citra = {
         attempts: "42.5k",
         note: "",   
         beatWhen: 231,        
-        wf: 94                 
+        wf: 94,
+        count: ""                 
     }
 };
