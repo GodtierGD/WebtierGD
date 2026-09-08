@@ -27,6 +27,9 @@ function createLevelCard(level, index) {
     const rank = index + 1;
     const barColor = `linear-gradient(270deg, ${level.gradient.start}, ${level.gradient.end})`;
     const hasThumb = Boolean(level.thumbnail);
+    const tags = level.tags
+    ? level.tags.map(tag => `<img class="level-card__tag" src="${tag}" alt="">`).join("")
+    : "";
 
     const card = document.createElement("div");
     card.classList.add("level-card");
@@ -41,7 +44,9 @@ function createLevelCard(level, index) {
         <div class="level-card__body">
             <div class="level-card__title" style="background:${barColor}">
                 <span class="level-card__name">${level.name}</span>
-                ${level.tag ? `<img class="level-card__tag" src="${level.tag}" alt="">` : ""}
+                <div class="level-card__tags">
+                    ${tags}
+                </div>
             </div>
             <div class="level-card__stats">
                 <div class="level-card__attempts">
