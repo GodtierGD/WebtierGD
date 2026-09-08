@@ -87,12 +87,21 @@ body {
 }
  
 .level-card__title {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
     font-weight: 700;
     font-size: 32px;
     color: #000000;
     padding: 12px 18px 4px;
 }
- 
+
+.level-card__tag {
+    height: 32px;
+    width: auto;
+    object-fit: contain;
+}
 .level-card__stats {
     flex: 1;
     display: flex;

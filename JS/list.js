@@ -39,7 +39,10 @@ function createLevelCard(level, index) {
             ${hasThumb ? "" : "No thumbnail"}
         </div>
         <div class="level-card__body">
-            <div class="level-card__title" style="background:${barColor}">${level.name}</div>
+            <div class="level-card__title" style="background:${barColor}">
+                <span class="level-card__name">${level.name}</span>
+                ${level.tag ? `<img class="level-card__tag" src="${level.tag}" alt="">` : ""}
+            </div>
             <div class="level-card__stats">
                 <div class="level-card__attempts">
                     ${level.stats.attempts} attempts
