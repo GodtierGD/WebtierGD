@@ -8,7 +8,7 @@ export const citra = {
 
     thumbnail: "./Resources/TB/citra.png",
     tags: [
-        "./Resources/Tags/tagHARDEST2.png"
+        "./Resources/Tags/tagHARDEST3.png"
     ],
 
     link: "https://www.youtube.com/watch?v=tme52R04Hj0",
