@@ -8,7 +8,10 @@ export const kowareta = {
  
     thumbnail: "./Resources/TB/kowareta.png",
     tags: [
-        "./Resources/Tags/tagHARDEST3.png"
+        "./Resources/Tags/tagHARDEST3.png",
+        "./Resources/Tags/tagFVICTOR.png",
+        "./Resources/Tags/tagVERIFIER.png",
+        "./Resources/Tags/tagUNRATED.png"
     ],
  
     link: "https://www.youtube.com/watch?v=1CSLD4SHJP0",
