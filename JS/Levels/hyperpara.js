@@ -8,7 +8,7 @@ export const hyperpara = {
  
     thumbnail: "./Resources/TB/hyper paracosm.png",
     tags: [
-        "./Resources/Tags/tagHARDEST4.png"
+        "./Resources/Tags/tagHARDEST5.png"
     ],
 
     link: "https://www.youtube.com/watch?v=dUMWBIth5DI",
