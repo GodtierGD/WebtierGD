@@ -18,7 +18,9 @@ const levelOrder = [
     "sigmainterface",
     "ttbm",
     "bloodbath",
-    "shukufuku"
+    "shukufuku",
+    "prismatichaze",
+    "moment"
 ];
 
 const list = document.getElementById("demon-list");
