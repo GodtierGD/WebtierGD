@@ -22,7 +22,8 @@ const levelOrder = [
     "prismatichaze",
     "moment",
     "acfl",
-    "robi"
+    "robi",
+    "aftermath"
 ];
 
 const list = document.getElementById("demon-list");
