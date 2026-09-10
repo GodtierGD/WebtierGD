@@ -11,7 +11,9 @@ const levelOrder = [
     "wcropolix",
     "athanatos",
     "eleos",
-    "boj"
+    "boj",
+    "skh",
+    "ic3"
 ];
 
 const list = document.getElementById("demon-list");

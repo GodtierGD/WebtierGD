@@ -2,8 +2,8 @@ export const boj = {
     name: "Blade Of Justice",
 
     gradient: {
-        start: "#1155cc",
-        end: "#639af9"
+        start: "#5499ff",
+        end: "#99c2ff"
     },
  
     thumbnail: "./Resources/TB/replacement.png",
