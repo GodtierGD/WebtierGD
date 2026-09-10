@@ -13,7 +13,8 @@ const levelOrder = [
     "eleos",
     "boj",
     "skh",
-    "ic3"
+    "ic3",
+    "ic"
 ];
 
 const list = document.getElementById("demon-list");
