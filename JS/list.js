@@ -25,7 +25,10 @@ const levelOrder = [
     "robi",
     "aftermath",
     "necropolix",
-    "downbass"
+    "downbass",
+    "bbf",
+    "crowdcontrol",
+    "uprise"
 ];
 
 const list = document.getElementById("demon-list");
