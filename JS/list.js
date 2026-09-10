@@ -29,7 +29,8 @@ const levelOrder = [
     "bbf",
     "crowdcontrol",
     "uprise",
-    "forbiddenisle"
+    "forbiddenisle",
+    "niwa"
 ];
 
 const list = document.getElementById("demon-list");
