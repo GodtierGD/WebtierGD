@@ -12,7 +12,7 @@ export const ic = {
     ],
  
     link: "https://www.youtube.com/watch?v=B28sCT-xjh0",
-    rating: "8/10",
+    rating: "3/10",
  
     stats: {
         attempts: "10.8k",

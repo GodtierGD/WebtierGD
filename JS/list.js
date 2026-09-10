@@ -14,7 +14,11 @@ const levelOrder = [
     "boj",
     "skh",
     "ic3",
-    "ic"
+    "ic",
+    "sigmainterface",
+    "ttbm",
+    "bloodbath",
+    "shukufuku"
 ];
 
 const list = document.getElementById("demon-list");
