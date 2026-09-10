@@ -8,7 +8,8 @@ const levelOrder = [
     "catalyze",
     "baushavortex",
     "quantumprocessing",
-    "wcropolix"
+    "wcropolix",
+    "athanatos"
 ];
 
 const list = document.getElementById("demon-list");
