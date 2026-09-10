@@ -8,6 +8,7 @@ export const ic3 = {
  
     thumbnail: "./Resources/TB/replacement.png",
     tags: [
+        "./Resources/Tags/FVICTOR.png",
         "./Resources/Tags/tagUNRATED.png"
     ],
  

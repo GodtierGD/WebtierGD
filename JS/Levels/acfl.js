@@ -1,9 +1,9 @@
-export const ic = {
-    name: "Illusion Circles",
+export const acfl = {
+    name: "AnyoneCanFindLove",
 
     gradient: {
-        start: "#ebb694",
-        end: "#fde5d5"
+        start: "#b6d7a8",
+        end: "#d1e8c7"
     },
  
     thumbnail: "./Resources/TB/replacement.png",
@@ -12,14 +12,14 @@ export const ic = {
         "./Resources/Tags/tagUNRATED.png"
     ],
  
-    link: "https://www.youtube.com/watch?v=B28sCT-xjh0",
-    rating: "3/10",
+    link: "https://www.youtube.com/watch?v=k3yiAZl3vQw",
+    rating: "9/10",
  
     stats: {
-        attempts: "10.8k",
+        attempts: "2.8k",
         note: "",   
         beatWhen: "N/A",          
-        wf: 95,
+        wf: 84,
         count: ""                   
     }
 };

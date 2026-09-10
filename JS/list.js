@@ -20,7 +20,9 @@ const levelOrder = [
     "bloodbath",
     "shukufuku",
     "prismatichaze",
-    "moment"
+    "moment",
+    "acfl",
+    "robi"
 ];
 
 const list = document.getElementById("demon-list");
