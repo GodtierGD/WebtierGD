@@ -9,7 +9,9 @@ const levelOrder = [
     "baushavortex",
     "quantumprocessing",
     "wcropolix",
-    "athanatos"
+    "athanatos",
+    "eleos",
+    "boj"
 ];
 
 const list = document.getElementById("demon-list");
