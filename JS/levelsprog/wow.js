@@ -10,6 +10,6 @@ export const wow = {
     stats: {
         attempts: "~3k",
         percent: 5,
-        line2: "30-58, 46-78, 80-100x5"
+        line2: "30-58, 46-78, 80-100x5 | Would place #3"
     }
 };

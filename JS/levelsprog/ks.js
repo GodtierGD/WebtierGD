@@ -10,6 +10,6 @@ export const ks = {
     stats: {
         attempts: "600",
         percent: 77,
-        line2: "68-100"
+        line2: "68-100 | Would place #<20"
     }
 };

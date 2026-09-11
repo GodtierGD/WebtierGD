@@ -10,6 +10,6 @@ export const aurora = {
     stats: {
         attempts: "548",
         percent: 46,
-        line2: "48-100"
+        line2: "48-100 | Would place #<20"
     }
 };

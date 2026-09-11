@@ -10,6 +10,6 @@ export const silcata = {
     stats: {
         attempts: "~2k",
         percent: 25,
-        line2: "18-68, 83-100"
+        line2: "18-68, 83-100 | Would place #7"
     }
 };

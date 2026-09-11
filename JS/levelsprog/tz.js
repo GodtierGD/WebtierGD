@@ -10,6 +10,6 @@ export const tz = {
     stats: {
         attempts: "~6k",
         percent: 89,
-        line2: "30-100"
+        line2: "30-100 | Would place #8"
     }
 };

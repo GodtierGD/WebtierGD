@@ -10,6 +10,6 @@ export const cog = {
     stats: {
         attempts: "~60k",
         percent: 41,
-        line2: "20-85, 72-100x7"
+        line2: "20-85, 72-100x7 | Would place #1"
     }
 };

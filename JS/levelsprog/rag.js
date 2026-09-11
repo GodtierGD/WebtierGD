@@ -10,6 +10,6 @@ export const rag = {
     stats: {
         attempts: "~25k",
         percent: 58,
-        line2: "17-74, 58-96, 63-100"
+        line2: "17-74, 58-96, 63-100 | Would place #1"
     }
 };
