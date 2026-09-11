@@ -12,16 +12,13 @@
 ==================================================== */
 
 const progOrder = [
-    "placeholder",
-    "placeholder",
-    "placeholder",
-    "placeholder",
-    "placeholder",
-    "placeholder",
-    "placeholder",
-    "placeholder",
-    "placeholder",
-    "placeholder"
+    "pagoda",
+    "thunderzone",
+    "cog",
+    "aurora",
+    "ks",
+    "wow",
+    "rag"
 ];
 
 const progList = document.getElementById("prog-list");
