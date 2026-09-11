@@ -6,7 +6,7 @@ export const skh = {
         end: "#f8d7d7"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/Sakupen Kiwi.png",
  
     link: "https://www.youtube.com/watch?v=t_3woVS_dJE",
     rating: "6.5/10",
