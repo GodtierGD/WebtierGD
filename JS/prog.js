@@ -12,10 +12,16 @@
 ==================================================== */
 
 const progOrder = [
-    "kowareta",
-    "sonicwave",
-    "arcticlights",
-    "wasureta"
+    "placeholder",
+    "placeholder",
+    "placeholder",
+    "placeholder",
+    "placeholder",
+    "placeholder",
+    "placeholder",
+    "placeholder",
+    "placeholder",
+    "placeholder"
 ];
 
 const progList = document.getElementById("prog-list");

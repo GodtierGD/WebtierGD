@@ -6,13 +6,6 @@
    an embedded player with its real title and description
    fetched live from YouTube. Nothing else needs editing.
 
-   apiKey            -> A YouTube Data API v3 key.
-                         Create one at:
-                         https://console.cloud.google.com/
-                         (APIs & Services > Credentials),
-                         after enabling "YouTube Data API v3"
-                         for the project.
-
    channelId         -> Your channel's ID (starts with "UC..."),
                          found in YouTube Studio under
                          Settings > Channel > Advanced settings.
