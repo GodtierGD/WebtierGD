@@ -6,7 +6,7 @@ export const aftermath = {
         end: "#d25252"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/aftermath.png",
  
     link: "https://www.youtube.com/watch?v=lTxEM6RL7Kc",
     rating: "6/10",

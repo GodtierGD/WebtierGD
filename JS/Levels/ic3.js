@@ -6,7 +6,7 @@ export const ic3 = {
         end: "#c66989"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/ic3.png",
     tags: [
         "./Resources/Tags/tagFVICTOR.png",
         "./Resources/Tags/tagUNRATED.png"

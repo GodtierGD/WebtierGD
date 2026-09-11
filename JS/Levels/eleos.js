@@ -6,7 +6,7 @@ export const eleos = {
         end: "#639af9"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/eleos2.png",
  
     link: "https://www.youtube.com/watch?v=u0mg5rLseaw",
     rating: "9/10",

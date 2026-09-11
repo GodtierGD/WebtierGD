@@ -6,7 +6,7 @@ export const downbass = {
         end: "#aed659"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/down bass better.png",
  
     link: "https://youtu.be/rVbJKXHhkIg",
     rating: "5/10",

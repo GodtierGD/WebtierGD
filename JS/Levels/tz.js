@@ -6,7 +6,7 @@ export const tz = {
         end: "#aac2ff" 
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/tz2.png",
  
     link: "https://www.youtube.com/watch?v=FQDOBHT28DM&t=1s",
     rating: "7.5/10",

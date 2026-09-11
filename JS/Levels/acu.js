@@ -6,7 +6,7 @@ export const acu = {
         end: "#9ec5ff"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/tek acu.png",
  
     link: "https://www.youtube.com/watch?v=X2-SvWxXUZk",
     rating: "3/10",

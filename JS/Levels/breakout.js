@@ -6,7 +6,7 @@ export const breakout = {
         end: "#ffac69"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/breakout.png",
  
     link: "https://www.youtube.com/watch?v=XTfcNrtzv3Y",
     rating: "4/10",

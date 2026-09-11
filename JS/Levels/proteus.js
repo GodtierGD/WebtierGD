@@ -6,7 +6,7 @@ export const proteus = {
         end: "#fcad8e"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/proteus.png",
  
     link: "https://www.youtube.com/watch?v=39-4SEQe56Y&t=1s",
     rating: "3/10",

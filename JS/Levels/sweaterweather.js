@@ -6,7 +6,7 @@ export const sweaterweather = {
         end: "#ffbaba"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/SWEATERWEATHER.png",
     tags: [
         "./Resources/Tags/tagX2.png"
     ],

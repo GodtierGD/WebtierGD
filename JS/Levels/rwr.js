@@ -6,7 +6,7 @@ export const rwr = {
         end: "#ff6a77"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/rwr.png",
  
     link: "https://www.youtube.com/watch?v=oebfbB4KfzM",
     rating: "3/10",

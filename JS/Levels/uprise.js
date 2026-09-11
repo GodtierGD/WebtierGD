@@ -6,7 +6,7 @@ export const uprise = {
         end: "#e25b66"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/uprizzen.png",
  
     link: "https://www.youtube.com/watch?v=b_l_qRWbPgM",
     rating: "2/10",

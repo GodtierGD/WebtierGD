@@ -6,7 +6,7 @@ export const necropolix = {
         end: "#9297ec"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/necroplix.png",
  
     link: "https://www.youtube.com/watch?v=5GtTYpMJYAY",
     rating: "6/10",

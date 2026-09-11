@@ -6,7 +6,7 @@ export const quantumprocessing = {
         end: "#9ee6c3"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/qp.png",
  
     link: "https://www.youtube.com/watch?v=_55ztSNSONk&t=1s",
     rating: "8/10",

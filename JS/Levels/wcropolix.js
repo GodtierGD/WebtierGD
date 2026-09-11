@@ -6,7 +6,7 @@ export const wcropolix = {
         end: "#cacaca"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/wcrop.png",
  
     link: "https://www.youtube.com/watch?v=RhaIwktdf3I",
     rating: "2/10",

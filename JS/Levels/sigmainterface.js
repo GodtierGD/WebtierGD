@@ -6,7 +6,7 @@ export const sigmainterface = {
         end: "#f6daf8"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/sigma interface.png",
  
     link: "https://www.youtube.com/watch?v=COxoQcbGOHs",
     rating: "4/10",

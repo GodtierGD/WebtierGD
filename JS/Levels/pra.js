@@ -6,7 +6,7 @@ export const pra = {
         end: "#b05784"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/partyrockanthem.png",
  
     link: "https://youtu.be/Umpb6UOmvTE",
     rating: "4/10",

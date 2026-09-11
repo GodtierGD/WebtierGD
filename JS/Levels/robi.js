@@ -6,7 +6,7 @@ export const robi = {
         end: "#d6d5d5"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/robin.png",
  
     link: "https://www.youtube.com/watch?v=N2agCkRxMks",
     rating: "1/10",

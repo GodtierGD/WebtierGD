@@ -6,7 +6,7 @@ export const brutal = {
         end: "#ec5656"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/brutal.png",
  
     link: "https://www.youtube.com/watch?v=sjodjBwBKrw",
     rating: "1/10",

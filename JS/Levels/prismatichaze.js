@@ -6,7 +6,7 @@ export const prismatichaze = {
         end: "#e6c4d5"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/prizz.png",
     tags: [
         "./Resources/Tags/tagX2.png"
     ],

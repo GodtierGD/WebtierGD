@@ -6,7 +6,7 @@ export const ic = {
         end: "#fde5d5"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/ic.png",
     tags: [
         "./Resources/Tags/tagVERIFIER.png",
         "./Resources/Tags/tagUNRATED.png"

@@ -6,7 +6,7 @@ export const volume = {
         end: "#7ab95f"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/volume.png",
  
     link: "https://www.youtube.com/watch?v=IREm7SReZTY",
     rating: "7.5/10",

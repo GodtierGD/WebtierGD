@@ -6,7 +6,7 @@ export const ttbm = {
         end: "#78a3ee"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/ttbm.png",
  
     link: "https://www.youtube.com/watch?v=1-mqOa32YX0",
     rating: "4/10",

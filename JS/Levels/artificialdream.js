@@ -6,7 +6,7 @@ export const artificialdream = {
         end: "#b7a2ee"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/ad tb.png",
  
     link: "https://www.youtube.com/watch?v=V4ykpCy1YrA",
     rating: "8/10",

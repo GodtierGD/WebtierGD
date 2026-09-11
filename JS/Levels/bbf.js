@@ -6,7 +6,7 @@ export const bbf = {
         end: "#d2c9ea"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/bbf.png",
  
     link: "https://www.youtube.com/watch?v=GfbAfB3lZxE",
     rating: "2/10",

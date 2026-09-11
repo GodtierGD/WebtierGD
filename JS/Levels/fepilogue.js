@@ -6,7 +6,7 @@ export const fepilogue = {
         end: "#e8e8e8"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/final ep.png",
  
     link: "https://www.youtube.com/watch?v=VuAWt1mDRac&t=2s",
     rating: "1/10",

@@ -6,7 +6,7 @@ export const boj = {
         end: "#99c2ff"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/boj3.png",
  
     link: "https://www.youtube.com/watch?v=CQFFPSOezO0",
     rating: "7.5/10",
