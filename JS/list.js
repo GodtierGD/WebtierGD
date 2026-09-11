@@ -37,7 +37,12 @@ const levelOrder = [
     "pra",
     "volume",
     "theflawless",
-    "catplanet"
+    "catplanet",
+    "proteus",
+    "breakout",
+    "rwr",
+    "raindance",
+    "cataclysm"
 ];
 
 const list = document.getElementById("demon-list");

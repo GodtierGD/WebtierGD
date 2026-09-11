@@ -7,6 +7,9 @@ export const niwa = {
     },
  
     thumbnail: "./Resources/TB/replacement.png",
+    tags: [
+        "./Resources/Tags/tagHARDEST.png"
+    ],
  
     link: "https://www.youtube.com/watch?v=4ecg2c4-vwU",
     rating: "8.5/10",
