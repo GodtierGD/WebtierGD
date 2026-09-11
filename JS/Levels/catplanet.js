@@ -6,7 +6,7 @@ export const catplanet = {
         end: "#77cbde"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/cat planet.png",
  
     link: "https://www.youtube.com/watch?v=mBeWrPEJ2Ww",
     rating: "5/10",
