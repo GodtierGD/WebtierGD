@@ -20,45 +20,30 @@ body {
     font-family: var(--font-body);
 }
 
-/* ====================================================
-   NAVBAR
-==================================================== */
-.navigation {
+/* NAVBAR -------------- */
+body {
+    margin: 0;
+}
+
+.navigation{
     width: 100%;
-    background: var(--orange-gradient);
+    background: linear-gradient(
+        180deg,
+        #ff9966,
+        rgb(242, 179, 137)
+    );
     border-color: black;
     border-bottom: solid;
 
-    display: flex;
-    justify-content: center;
+    display:flex;
+    justify-content:center;
     flex-direction: row;
-    align-items: center;
-    gap: 40px;
-    padding: 10px 20px;
+    align-items:center;
 }
 
-.navigation h1 {
-    font-family: var(--font-body);
+.navigation h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-}
-
-/* TITLE.png logo - first image in the nav */
-.navigation > img:first-child {
-    height: 90px;
-    width: auto;
-}
-
-/* the HOME/LIST/PROG/SOON hover-swap icons */
-.navigation a {
-    display: inline-flex;
-    align-items: center;
-    line-height: 0;
-}
-
-.navigation a img {
-    height: 50px;
-    width: auto;
-    display: block;
 }
 
 /* ====================================================
