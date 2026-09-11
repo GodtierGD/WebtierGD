@@ -113,6 +113,8 @@ body {
     border-radius: 6px;
     overflow: hidden;
     background: #000;
+    position: relative;
+    cursor: pointer;
 }
 
 .recent-card__media iframe {
@@ -120,6 +122,37 @@ body {
     height: 100%;
     border: 0;
     display: block;
+}
+
+.recent-card__thumb-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.recent-card__play-btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.65);
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    padding-left: 4px;
+    transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.recent-card__media:hover .recent-card__play-btn,
+.recent-card__media:focus-visible .recent-card__play-btn {
+    background: rgba(255, 60, 60, 0.85);
+    transform: translate(-50%, -50%) scale(1.08);
 }
 
 .recent-card__info {

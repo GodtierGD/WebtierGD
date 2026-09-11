@@ -16,5 +16,5 @@
  
 const RECENT_CONFIG = {
     channelId: "UCU4XGr4lsMw2RlE84Xuqf9A",
-    maxResults: 6
+    maxResults: 15
 };
