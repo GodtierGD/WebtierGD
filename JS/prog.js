@@ -15,9 +15,10 @@ const progOrder = [
     "pagoda",
     "thunderzone",
     "cog",
+    "wow",
+    "silcata",
     "aurora",
     "ks",
-    "wow",
     "rag"
 ];
 
