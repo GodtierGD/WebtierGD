@@ -2,6 +2,7 @@
 <html>
 
     <head>
+        <meta charset="UTF-8">
         <title> GTCRATE </title>
         <link rel="icon" href="Resources/Icons/WEBICON.png" type="image/png">
         <link rel="stylesheet" href="CSS/PROGRESS.css"/>
@@ -16,7 +17,29 @@
             <a href="PLANNED.html"><img src="Resources/Text/UN_SOON.png" onmouseover="this.src='Resources/Text/SOON.png';" onmouseout="this.src='Resources/Text/UN_SOON.png';"></a>
         </div>
 
+        <!-- PAGE CONTENT -->
+        <main class="prog-grid">
 
+            <!-- RECENT VIDEOS PANEL -->
+            <section class="panel recent-panel">
+                <div class="panel-header">
+                    <img src="Resources/Text/title-recent.png" alt="Recent" class="panel-title">
+                </div>
+                <div class="panel-body recent-scroll" id="recent-container">
+                    <!-- video cards injected by JS/RenderRecent.js -->
+                </div>
+            </section>
+
+            <!-- LEVELS CURRENTLY BEING PRACTICED -->
+            <div class="prog-list" id="prog-list">
+                <!-- level cards injected by JS/prog.js -->
+            </div>
+
+        </main>
+
+        <script src="JS/Recent.js"></script>
+        <script src="JS/RenderRecent.js"></script>
+        <script src="JS/prog.js"></script>
     </body>
 
 </html>
