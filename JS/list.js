@@ -35,7 +35,9 @@ const levelOrder = [
     "brutal",
     "fepilogue",
     "pra",
-    "volume"
+    "volume",
+    "theflawless",
+    "catplanet"
 ];
 
 const list = document.getElementById("demon-list");
