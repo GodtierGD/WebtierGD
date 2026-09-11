@@ -33,7 +33,9 @@ const levelOrder = [
     "niwa",
     "azurite",
     "brutal",
-    "fepilogue"
+    "fepilogue",
+    "pra",
+    "volume"
 ];
 
 const list = document.getElementById("demon-list");
