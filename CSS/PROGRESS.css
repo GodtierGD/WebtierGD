@@ -58,7 +58,7 @@ body {
     margin: 32px auto;
     align-items: start;
 }
-
+ 
 /* ====================================================
    SHARED PANEL (used by the RECENT box)
 ==================================================== */
@@ -68,7 +68,7 @@ body {
     border-radius: 14px;
     overflow: hidden;
 }
-
+ 
 .panel-header {
     background: var(--orange-gradient);
     border-bottom: 2px solid black;
@@ -77,16 +77,16 @@ body {
     justify-content: center;
     align-items: center;
 }
-
+ 
 .panel-title {
     height: 44px;
     width: auto;
 }
-
+ 
 .panel-body {
     padding: 22px 26px;
 }
-
+ 
 /* ====================================================
    RECENT VIDEOS PANEL
 ==================================================== */
@@ -97,7 +97,7 @@ body {
     flex-direction: column;
     gap: 18px;
 }
-
+ 
 .recent-card {
     display: flex;
     align-items: center;
@@ -106,7 +106,7 @@ body {
     border-radius: 10px;
     padding: 16px;
 }
-
+ 
 .recent-card__media {
     flex: 0 0 260px;
     aspect-ratio: 16 / 9;
@@ -116,21 +116,21 @@ body {
     position: relative;
     cursor: pointer;
 }
-
+ 
 .recent-card__media iframe {
     width: 100%;
     height: 100%;
     border: 0;
     display: block;
 }
-
+ 
 .recent-card__thumb-img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
 }
-
+ 
 .recent-card__play-btn {
     position: absolute;
     top: 50%;
@@ -148,17 +148,17 @@ body {
     padding-left: 4px;
     transition: background 0.15s ease, transform 0.15s ease;
 }
-
+ 
 .recent-card__media:hover .recent-card__play-btn,
 .recent-card__media:focus-visible .recent-card__play-btn {
     background: rgba(255, 60, 60, 0.85);
     transform: translate(-50%, -50%) scale(1.08);
 }
-
+ 
 .recent-card__info {
     min-width: 0;
 }
-
+ 
 .recent-card__title {
     margin: 0 0 8px;
     font-size: 1.35rem;
@@ -166,7 +166,7 @@ body {
     color: #000000;
     line-height: 1.25;
 }
-
+ 
 .recent-card__desc {
     margin: 0;
     font-size: 1rem;
@@ -178,7 +178,7 @@ body {
     -webkit-box-orient: vertical;
     overflow: hidden;
 }
-
+ 
 .recent-placeholder {
     padding: 24px;
     margin: 0;
@@ -186,7 +186,7 @@ body {
     font-size: 1rem;
     text-align: center;
 }
-
+ 
 /* ====================================================
    PRACTICE LEVEL LIST (right column)
 ==================================================== */
@@ -194,27 +194,27 @@ body {
     max-height: 760px;
     overflow-y: auto;
     padding-right: 8px;
+    font-family: 'Montserrat', sans-serif;
 }
-
+ 
 .prog-card {
+    background: #ffffff;
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 6px;
     display: grid;
-    grid-template-columns: 240px 1fr;
-    gap: 20px;
-    padding-bottom: 16px;
+    grid-template-columns: 260px 1fr;
+    overflow: hidden;
     margin-bottom: 16px;
-    border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
 }
-
+ 
 .prog-card:last-child {
-    border-bottom: none;
     margin-bottom: 0;
 }
-
+ 
 .prog-card__thumb {
     position: relative;
+    width: 100%;
     aspect-ratio: 16 / 9;
-    border-radius: 6px;
-    overflow: hidden;
     background: #000 center / cover no-repeat;
     display: flex;
     align-items: center;
@@ -222,57 +222,59 @@ body {
     color: #8b8f9b;
     font-size: 16px;
 }
-
+ 
 .prog-card__rank {
     position: absolute;
     top: 8px;
     left: 8px;
-    font-weight: 800;
-    font-size: 20px;
-    color: #000000;
+    font-weight: 700;
+    font-size: 22px;
+    color: #ffffff;
     padding: 2px 10px;
-    border-radius: 4px;
+    border-radius: 3px;
 }
-
+ 
 .prog-card__body {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    gap: 10px;
 }
-
+ 
 .prog-card__title {
-    font-weight: 800;
-    font-size: 1.3rem;
+    font-weight: 700;
+    font-size: 1.75rem;
     color: #000000;
-    padding: 10px 16px;
-    border-radius: 4px;
+    padding: 12px 18px 4px;
 }
-
+ 
 .prog-card__stats {
-    padding: 0 4px;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 18px;
 }
-
+ 
 .prog-card__line1 {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     color: #000000;
 }
-
+ 
 .prog-card__line1 strong {
-    font-weight: 800;
+    font-weight: 700;
 }
-
+ 
 .prog-card__line2 {
-    margin-top: 4px;
-    font-size: 1.1rem;
-    font-weight: 800;
-    color: #000000;
+    text-align: right;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: rgba(101, 101, 101, 0.736);
+    line-height: 1.5;
 }
-
+ 
 .prog-card--pending .prog-card__title {
     opacity: 0.5;
 }
-
+ 
 /* ====================================================
    RESPONSIVE
 ==================================================== */
@@ -281,26 +283,27 @@ body {
         grid-template-columns: 1fr;
         width: 92%;
     }
-
+ 
     .navigation {
         flex-wrap: wrap;
         gap: 16px;
     }
-
+ 
     .navigation a img {
         height: 34px;
     }
-
+ 
     .recent-card {
         flex-direction: column;
         align-items: stretch;
     }
-
+ 
     .recent-card__media {
         flex-basis: auto;
     }
-
+ 
     .prog-card {
         grid-template-columns: 1fr;
     }
 }
+ 
