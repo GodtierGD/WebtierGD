@@ -42,7 +42,10 @@ const levelOrder = [
     "breakout",
     "rwr",
     "raindance",
-    "cataclysm"
+    "cataclysm",
+    "artificialdream",
+    "acu",
+    "sweaterweather"
 ];
 
 const list = document.getElementById("demon-list");
