@@ -25,8 +25,7 @@
 ==================================================== */
 
 const RECENT_CONFIG = {
-    apiKey: "YOUR_YOUTUBE_API_KEY",
-    channelId: "YOUR_CHANNEL_ID",
+    channelId: "UCU4XGr4lsMw2RlE84Xuqf9A",
     uploadsPlaylistId: "",
     maxResults: 6
 };
