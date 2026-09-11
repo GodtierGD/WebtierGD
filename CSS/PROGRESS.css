@@ -91,7 +91,7 @@ body {
    RECENT VIDEOS PANEL
 ==================================================== */
 .recent-scroll {
-    max-height: calc(100vh - 140px);
+    max-height: calc(80vh - 140px);
     overflow-y: auto;
     display: flex;
     flex-direction: column;
@@ -191,7 +191,7 @@ body {
    PRACTICE LEVEL LIST (right column)
 ==================================================== */
 .prog-list {
-    max-height: calc(100vh - 140px);
+    max-height: calc(80vh - 140px);
     overflow-y: auto;
     padding-right: 8px;
     font-family: 'Montserrat', sans-serif;
