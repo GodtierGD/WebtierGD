@@ -91,7 +91,7 @@ body {
    RECENT VIDEOS PANEL
 ==================================================== */
 .recent-scroll {
-    max-height: 75vh;
+    max-height: 73vh;
     overflow-y: auto;
     display: flex;
     flex-direction: column;
