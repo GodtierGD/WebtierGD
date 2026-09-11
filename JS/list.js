@@ -6,6 +6,7 @@ const levelOrder = [
     "wasureta",
     "hyperpara",
     "catalyze",
+    "tz",
     "baushavortex",
     "quantumprocessing",
     "wcropolix",

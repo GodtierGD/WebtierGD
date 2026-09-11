@@ -22,6 +22,12 @@
  
 const changelogData = [
     {
+        date: "11/9/2026",
+        entries: [
+            { level: "Thunderzone", info: "was placed at #8 (Above Bausha Vortex & Below Catalyze)" }
+        ]
+    },
+    {
         date: "22/8/2026",
         entries: [
             { level: "Kowareta", info: "was placed at #1 (Above Citra)" }
