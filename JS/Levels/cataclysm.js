@@ -6,7 +6,7 @@ export const cataclysm = {
         end: "#ffad6e"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/no thumbnail.png",
     tags: [
         "./Resources/Tags/tagHARDEST.png"
     ],

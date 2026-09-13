@@ -6,7 +6,7 @@ export const crowdcontrol = {
         end: "#cae0f4"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/no thumbnail.png",
  
     link: "https://www.youtube.com/watch?v=egnJ3dpTsCY",
     rating: "7.5/10",

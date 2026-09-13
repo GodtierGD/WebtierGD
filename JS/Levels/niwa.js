@@ -6,7 +6,7 @@ export const niwa = {
         end: "#e5aeca"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/no thumbnail.png",
     tags: [
         "./Resources/Tags/tagHARDEST.png"
     ],

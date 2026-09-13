@@ -6,7 +6,7 @@ export const moment = {
         end: "rgb(240, 216, 228)"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/no thumbnail.png",
     tags: [
         "./Resources/Tags/tagX2.png"
     ],

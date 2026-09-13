@@ -6,7 +6,7 @@ export const baushavortex = {
         end: "#6995e1"
     },
  
-    thumbnail: "./Resources/TB/buasha.png",
+    thumbnail: "./Resources/TB/buahsa.png",
  
     link: "https://www.youtube.com/watch?v=5JmNIdIYVtk&t=3s",
     rating: "7/10",

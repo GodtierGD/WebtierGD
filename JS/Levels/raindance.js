@@ -6,7 +6,7 @@ export const raindance = {
         end: "#b5a4e2"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/no thumbnail.png",
  
     link: "https://www.youtube.com/watch?v=7I8wG5qgSlw",
     rating: "6.5/10",

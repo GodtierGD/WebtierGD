@@ -6,7 +6,7 @@ export const shukufuku = {
         end: "#d9f0cf"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/no thumbnail.png",
  
     link: "https://www.youtube.com/watch?v=HB9iLBaZRIs",
     rating: "7.5/10",

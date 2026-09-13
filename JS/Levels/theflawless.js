@@ -6,7 +6,7 @@ export const theflawless = {
         end: "#c36d65"
     },
  
-    thumbnail: "./Resources/TB/the flawless 2.png",
+    thumbnail: "./Resources/TB/no thumbnail.png",
  
     link: "https://www.youtube.com/watch?v=qWgV9l4_Dq8",
     rating: "5/10",

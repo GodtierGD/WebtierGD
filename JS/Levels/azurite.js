@@ -6,7 +6,7 @@ export const azurite = {
         end: "#dae7fd"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/no thumbnail.png",
  
     link: "https://www.youtube.com/watch?v=4ecg2c4-vwU",
     rating: "8/10",

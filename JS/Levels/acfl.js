@@ -6,7 +6,7 @@ export const acfl = {
         end: "#d1e8c7"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/no thumbnail.png",
     tags: [
         "./Resources/Tags/tagVERIFIER.png",
         "./Resources/Tags/tagUNRATED.png"

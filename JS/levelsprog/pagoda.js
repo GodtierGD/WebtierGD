@@ -5,7 +5,7 @@ export const pagoda = {
     { start: "#ff6d01", 
         end: "#ffa967" },
 
-    thumbnail: "./Resources/TB/pagoda.png",
+    thumbnail: "./Resources/TB/Pagoda.png",
 
     stats: {
         attempts: "~6k",

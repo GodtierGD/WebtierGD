@@ -6,7 +6,7 @@ export const forbiddenisle = {
         end: "#95cb7e"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/no thumbnail.png",
  
     link: "https://www.youtube.com/watch?v=8NhwPNTuEFg",
     rating: "6/10",

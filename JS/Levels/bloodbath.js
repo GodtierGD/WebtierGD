@@ -6,7 +6,7 @@ export const bloodbath = {
         end: "#e65d5d"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/no thumbnail.png",
  
     link: "https://www.youtube.com/watch?v=Pd6K61KVmr8&t=1s",
     rating: "6/10",

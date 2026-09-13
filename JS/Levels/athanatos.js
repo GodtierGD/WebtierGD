@@ -6,7 +6,7 @@ export const athanatos = {
         end: "#d9d9d9"
     },
  
-    thumbnail: "./Resources/TB/replacement.png",
+    thumbnail: "./Resources/TB/no thumbnail.png",
     tags: [
         "./Resources/Tags/tagX2.png"
     ],
