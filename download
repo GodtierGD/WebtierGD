@@ -1,0 +1,18 @@
+# Add this file to the ROOT of your GitHub repo, next to
+# wrangler.toml. It tells Cloudflare which files to skip when
+# bundling your site's assets - the same idea as .gitignore, but
+# for what gets deployed rather than what gets committed.
+#
+# Without this, Cloudflare tries to upload EVERYTHING in the repo
+# folder as a website file, including the hidden .git folder
+# (Git's internal history data, not your actual site) - which is
+# what caused the "Asset too large" deploy failure.
+
+.git
+.git/**
+.github
+.wrangler
+node_modules
+wrangler.toml
+worker.js
+.assetsignore
