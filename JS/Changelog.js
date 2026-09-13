@@ -22,6 +22,12 @@
  
 const changelogData = [
     {
+        date: "13/9/2026",
+        entries: [
+            { level: "Vaenstep", info: "was placed at #8 (Above Thunderzone & Below Catalyze)" }
+        ]
+    },
+    {
         date: "11/9/2026",
         entries: [
             { level: "Thunderzone", info: "was placed at #8 (Above Bausha Vortex & Below Catalyze)" }
