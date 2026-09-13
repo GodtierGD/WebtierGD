@@ -5,7 +5,7 @@ export const aurora = {
     { start: "#6d6d6d", 
         end: "#d3d3d3" },
 
-    thumbnail: "./Resources/TB/placeholder.png",
+    thumbnail: "./Resources/TB/no thumbnail.png",
 
     stats: {
         attempts: "548",
