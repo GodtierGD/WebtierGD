@@ -15,7 +15,7 @@ export const vaen = {
     rating: "8/10",
  
     stats: {
-        attempts: "2,486",
+        attempts: "2.48k",
         note: " -714 old",   
         beatWhen: 517,          
         wf: 80,
