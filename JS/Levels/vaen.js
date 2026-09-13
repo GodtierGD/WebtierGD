@@ -7,6 +7,9 @@ export const vaen = {
     },
  
     thumbnail: "./Resources/TB/vaen.png",
+        tags: [
+        "./Resources/Tags/tagNEW.png"
+    ],
  
     link: "https://www.youtube.com/watch?v=de6SHkuy_Kc",
     rating: "8/10",
