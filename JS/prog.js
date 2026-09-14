@@ -14,6 +14,7 @@
 const progOrder = [
     "pagoda",
     "whirlfate",
+    "hs",
     "cog",
     "wow",
     "silcata",
