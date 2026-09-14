@@ -2,6 +2,7 @@
 <html>
 
     <head>
+        <meta charset="UTF-8">
         <title> GTCRATE </title>
         <link rel="icon" href="Resources/Icons/WEBICON.png" type="image/png">
         <link rel="stylesheet" href="CSS/PLANNED.css"/>
@@ -16,7 +17,40 @@
             <a href="PLANNED.html"><img src="Resources/Text/UN_SOON.png" onmouseover="this.src='Resources/Text/SOON.png';" onmouseout="this.src='Resources/Text/UN_SOON.png';"></a>
         </div>
 
+        <!-- PAGE CONTENT -->
+        <main class="soon-page">
 
+            <!-- CONFIDENCE KEY -->
+            <div class="confidence-key">
+                <span class="confidence-key__item"><span class="dot dot--green"></span> Will be beaten</span>
+                <span class="confidence-key__item"><span class="dot dot--orange"></span> Uncertain</span>
+                <span class="confidence-key__item"><span class="dot dot--red"></span> Unlikely</span>
+            </div>
+
+            <!-- ZERO PROGRESS / DROPPED PANEL -->
+            <section class="panel soon-panel">
+                <div class="soon-header">
+                    <div class="soon-header__half">
+                        <img src="Resources/Text/title-zeroprogress.png" alt="Zero Progress" class="panel-title">
+                    </div>
+                    <div class="soon-header__half">
+                        <img src="Resources/Text/title-dropped.png" alt="Dropped" class="panel-title">
+                    </div>
+                </div>
+                <div class="soon-body">
+                    <div class="soon-column" id="zero-progress-container">
+                        <!-- injected by JS/RenderSoon.js -->
+                    </div>
+                    <div class="soon-column" id="dropped-container">
+                        <!-- injected by JS/RenderSoon.js -->
+                    </div>
+                </div>
+            </section>
+
+        </main>
+
+        <script src="JS/Soon.js"></script>
+        <script src="JS/RenderSoon.js"></script>
     </body>
 
 </html>

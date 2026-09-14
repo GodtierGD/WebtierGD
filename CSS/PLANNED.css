@@ -27,3 +27,182 @@ body {
 .navigation image{
     size: 150px;
 }
+
+/* ====================================================
+   ROOT / RESET
+==================================================== */
+:root {
+    --orange-gradient: linear-gradient(180deg, #ff9966, rgb(242, 179, 137));
+    --panel-bg: #ffffff;
+    --panel-border: #000000;
+    --text-grey: #6f7580;
+    --confidence-green: #3fae5a;
+    --confidence-orange: #f2934f;
+    --confidence-red: #d94848;
+    --font-body: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    background: #ffffff;
+    font-family: var(--font-body);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* ====================================================
+   PAGE LAYOUT
+==================================================== */
+.soon-page {
+    display: flex;
+    flex-direction: column;
+    max-width: 2200px;
+    width: 94%;
+    margin: 32px auto 35px;
+    flex: 1;
+    min-height: 0;
+}
+
+/* ====================================================
+   CONFIDENCE KEY
+==================================================== */
+.confidence-key {
+    display: flex;
+    gap: 28px;
+    align-items: center;
+    margin-bottom: 16px;
+    font-size: 1rem;
+    color: #333333;
+}
+
+.confidence-key__item {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.dot {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dot--green { background: var(--confidence-green); }
+.dot--orange { background: var(--confidence-orange); }
+.dot--red { background: var(--confidence-red); }
+
+/* ====================================================
+   SOON PANEL
+==================================================== */
+.panel {
+    background: var(--panel-bg);
+    border: 2px solid var(--panel-border);
+    border-radius: 14px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-height: 0;
+}
+
+.soon-header {
+    background: var(--orange-gradient);
+    border-bottom: 2px solid black;
+    display: flex;
+    flex: 0 0 auto;
+}
+
+.soon-header__half {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 22px 0;
+}
+
+.panel-title {
+    height: 40px;
+    width: auto;
+}
+
+.soon-body {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+}
+
+.soon-column {
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+    padding: 24px 32px;
+}
+
+.soon-column:first-child {
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* ====================================================
+   ROWS
+==================================================== */
+.soon-row {
+    padding: 8px 0;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.soon-row--dropped {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.soon-row__name.confidence--green { color: var(--confidence-green); }
+.soon-row__name.confidence--orange { color: var(--confidence-orange); }
+.soon-row__name.confidence--red { color: var(--confidence-red); }
+
+.soon-row__note {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #000000;
+    white-space: nowrap;
+}
+
+/* ====================================================
+   RESPONSIVE
+==================================================== */
+@media (max-width: 900px) {
+    .navigation {
+        flex-wrap: wrap;
+        gap: 16px;
+    }
+
+    .navigation a img {
+        height: 34px;
+    }
+
+    .soon-body {
+        flex-direction: column;
+    }
+
+    .soon-column:first-child {
+        border-right: none;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    }
+
+    .confidence-key {
+        flex-wrap: wrap;
+        row-gap: 8px;
+    }
+}
