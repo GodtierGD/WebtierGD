@@ -27,6 +27,13 @@ const soonData = {
 
     zeroProgress: [
         { name: "", confidence: "orange" },
+        { name: "untitled", confidence: "orange" },
+        { name: "the hell bird", confidence: "orange" },
+        { name: "iniquity", confidence: "red" },
+        { name: "betrayal of fate", confidence: "orange" },
+        { name: "artifice", confidence: "red" },
+        { name: "Zinhwa", confidence: "red" },
+        { name: "silentium gradas", confidence: "orange" },
         { name: "Dimensional Breaking", confidence: "orange" },
         { name: "Autumnal Remanence", confidence: "orange" },
         { name: "milo", confidence: "orange" },
