@@ -26,7 +26,15 @@
 const soonData = {
 
     zeroProgress: [
-        { name: "", confidence: "orange" },
+        { name: "Sephiroth", confidence: "orange" },
+        { name: "devotion", confidence: "orange" },
+        { name: "akashic records", confidence: "orange" },
+        { name: "tapwreck", confidence: "orange" },
+        { name: "relentless", confidence: "orange" },
+        { name: "framework", confidence: "orange" },
+        { name: "dreams", confidence: "orange" },
+        { name: "lucid chaos", confidence: "orange" },
+        { name: "Dubkore X", confidence: "orange" },
         { name: "xronier", confidence: "orange" },
         { name: "lucid chaos", confidence: "orange" },
         { name: "ddiamond", confidence: "orange" },
@@ -78,7 +86,6 @@ const soonData = {
         { name: "komodo", confidence: "green" },
         { name: "kanpai", confidence: "orange" },
         { name: "9blue", confidence: "orange" },
-        { name: "ddiamond", confidence: "orange" },
         { name: "Astral Divinity", confidence: "orange" },
         { name: "mizureta", confidence: "green" },
         { name: "kuzureta", confidence: "green" },
