@@ -27,6 +27,14 @@ const soonData = {
 
     zeroProgress: [
         { name: "", confidence: "orange" },
+        { name: "Dimensional Breaking", confidence: "orange" },
+        { name: "Autumnal Remanence", confidence: "orange" },
+        { name: "milo", confidence: "orange" },
+        { name: "betrayal of destiny", confidence: "red" },
+        { name: "viridian", confidence: "orange" },
+        { name: "anoxysm", confidence: "red" },
+        { name: "crippled depression", confidence: "red" },
+        { name: "the hell field", confidence: "orange" },
         { name: "the hell zone", confidence: "red" },
         { name: "Visurient", confidence: "orange" },
         { name: "Collapse (fwefwe)", confidence: "orange" },
