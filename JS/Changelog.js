@@ -22,6 +22,13 @@
  
 const changelogData = [
     {
+        date: "21/9/2026",
+        entries: [
+            { level: "Aftermath", info: "was lowered from #27 to #30 (Above Crowd Control & Below BBF)" },
+            { level: "Azurite", info: "was lowered from #35 to #38 (Above Volume & Below Party Rock Anthem)" }
+        ]
+    },
+    {
         date: "13/9/2026",
         entries: [
             { level: "Vaenstep", info: "was placed at #8 (Above Thunderzone & Below Catalyze)" }
