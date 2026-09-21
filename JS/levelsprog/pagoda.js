@@ -8,8 +8,8 @@ export const pagoda = {
     thumbnail: "./Resources/TB/Pagoda.png",
 
     stats: {
-        attempts: "~6k",
-        percent: 51,
-        line2: "37-88, 59-100 | Would place #3"
+        attempts: "~10k",
+        percent: 65,
+        line2: "37-88, 59-100x2 | Would place #3"
     }
 };
