@@ -27,6 +27,7 @@ const soonData = {
 
     zeroProgress: [
         { name: "", confidence: "orange" },
+        { name: "fragmented", confidence: "orange" },
         { name: "nabil let go", confidence: "orange" },
         { name: "auroral darkness", confidence: "orange" },
         { name: "luxtra", confidence: "orange" },
