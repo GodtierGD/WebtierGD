@@ -7,9 +7,6 @@ export const tz = {
     },
  
     thumbnail: "./Resources/TB/tz2.png",
-        tags: [
-        "./Resources/Tags/tagNEW.png"
-    ],
  
     link: "https://www.youtube.com/watch?v=FQDOBHT28DM&t=1s",
     rating: "7.5/10",
