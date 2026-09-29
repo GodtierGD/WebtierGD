@@ -2,8 +2,8 @@ export const polishal = {
     name: "Polish Alphabet",
 
     gradient: 
-    { start: "#22a731", 
-        end: "#6699fd" },
+    { start: "#81c0ff",
+        end: "#31bd42" },
 
     thumbnail: "./Resources/TB/polish alphabet.png",
 
