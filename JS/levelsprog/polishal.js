@@ -8,7 +8,7 @@ export const polishal = {
     thumbnail: "./Resources/TB/polish alphabet.png",
 
     stats: {
-        attempts: "~750",
+        attempts: "~1.1k",
         percent: 81,
         line2: "44-100 | Would place #<20"
     }
