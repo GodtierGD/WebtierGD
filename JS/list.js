@@ -38,6 +38,7 @@ const levelOrder = [
     "pra",
     "azurite",
     "volume",
+    "polishalpha",
     "theflawless",
     "catplanet",
     "proteus",
