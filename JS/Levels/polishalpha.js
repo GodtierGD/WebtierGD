@@ -8,7 +8,7 @@ export const polishalpha = {
  
     thumbnail: "./Resources/TB/polish alphabet.png",
  
-    link: "https://www.youtube.com/watch?v=X2-SvWxXUZk",
+    link: "https://youtu.be/enNrthH8x_c",
     rating: "6/10",
  
     stats: {
