@@ -22,6 +22,12 @@
  
 const changelogData = [
     {
+        date: "1/10/2026",
+        entries: [
+            { level: "Polish Alphabet", info: "was placed at #40 (Above The Flawless & Below Volume)" }
+        ]
+    },
+    {
         date: "21/9/2026",
         entries: [
             { level: "Aftermath", info: "was lowered from #27 to #30 (Above Crowd Control & Below BBF)" },
