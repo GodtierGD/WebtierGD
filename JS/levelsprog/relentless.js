@@ -5,7 +5,7 @@ export const relentless = {
     { start: "#6d6d6d", 
         end: "#d3d3d3" },
 
-    thumbnail: "./Resources/TB/no thumbnail.png",
+    thumbnail: "./Resources/TB/Relentless.png",
 
     stats: {
         attempts: "4.5k",
