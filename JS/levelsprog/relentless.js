@@ -2,8 +2,8 @@ export const relentless = {
     name: "Relentless",
     
     gradient: 
-    { start: "#6d6d6d", 
-        end: "#d3d3d3" },
+    { start: "#fb9637", 
+        end: "#58a7e8" },
 
     thumbnail: "./Resources/TB/Relentless.png",
 
