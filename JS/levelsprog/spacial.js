@@ -8,8 +8,8 @@ export const spacial = {
     thumbnail: "./Resources/TB/no thumbnail.png",
 
     stats: {
-        attempts: "~4k",
-        percent: 18,
+        attempts: "~5k",
+        percent: 28,
         line2: "24-32, 35-55, 50-73x2 59-100 | Would place #3"
     }
 };
