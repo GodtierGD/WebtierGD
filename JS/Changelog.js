@@ -22,6 +22,13 @@
  
 const changelogData = [
     {
+        date: "10/10/2026",
+        entries: [
+            { level: "Relentless", info: "was placed at #7 (Above Catalyze & Below Hyper Paracosm)" },
+            { level: "Vaenstep", info: "was lowered from #9 to #10 (Above Bausha Vortex & Below Thunderzone)" }
+        ]
+    },
+    {
         date: "1/10/2026",
         entries: [
             { level: "Polish Alphabet", info: "was placed at #40 (Above The Flawless & Below Volume)" }
