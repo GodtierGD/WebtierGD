@@ -7,9 +7,6 @@ export const polishalpha = {
     },
  
     thumbnail: "./Resources/TB/polish alphabet.png",
-    tags: [
-            "./Resources/Tags/tagNEW.png"
-        ],
  
     link: "https://youtu.be/enNrthH8x_c",
     rating: "6/10",
