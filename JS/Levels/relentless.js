@@ -16,7 +16,7 @@ export const relentless = {
  
     stats: {
         attempts: "5.4k",
-        note: "500 old",   
+        note: "-500 old",   
         beatWhen: "446",          
         wf: 90,
         count: ""                   
