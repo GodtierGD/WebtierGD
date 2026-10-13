@@ -13,6 +13,7 @@
 
 const progOrder = [
     "pagoda",
+    "delta",
     "spacial",
     "dubkore",
     "whirlfate",
