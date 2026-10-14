@@ -3,7 +3,7 @@ export const delta = {
     
     gradient: 
     { start: "#f8982b", 
-        end: "#4a5bf6" },
+        end: "#8da8ff" },
 
     thumbnail: "./Resources/TB/delta interface.png",
 
