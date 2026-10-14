@@ -9,7 +9,7 @@ export const delta = {
 
     stats: {
         attempts: "3.1k",
-        percent: 63,
-        line2: "(63x4 total) 33-100 | Would place #9"
+        percent: 73,
+        line2: " 33-100 | Would place #9"
     }
 };
