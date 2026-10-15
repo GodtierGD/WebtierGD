@@ -8,8 +8,8 @@ export const delta = {
     thumbnail: "./Resources/TB/delta interface.png",
 
     stats: {
-        attempts: "3.1k",
-        percent: 73,
+        attempts: "3.9k",
+        percent: 79,
         line2: " 33-100 | Would place #9"
     }
 };
