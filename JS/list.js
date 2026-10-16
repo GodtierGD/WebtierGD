@@ -8,6 +8,7 @@ const levelOrder = [
     "relentless",
     "catalyze",
     "tz",
+    "deltainter",
     "vaen",
     "baushavortex",
     "quantumprocessing",

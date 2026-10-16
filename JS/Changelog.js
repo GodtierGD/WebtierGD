@@ -22,6 +22,12 @@
  
 const changelogData = [
     {
+        date: "16/10/2026",
+        entries: [
+            { level: "Delta Interface", info: "was placed at #9 (Above Vaenstep & Below Thunderzone)" }
+        ]
+    },
+    {
         date: "10/10/2026",
         entries: [
             { level: "Relentless", info: "was placed at #7 (Above Catalyze & Below Hyper Paracosm)" },
