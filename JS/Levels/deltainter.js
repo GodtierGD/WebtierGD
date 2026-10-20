@@ -6,6 +6,9 @@ export const deltainter = {
         end: "#8da8ff" },
  
     thumbnail: "./Resources/TB/delta interface.png",
+    tags: [
+        "./Resources/Tags/tagNEW.png"
+    ],
  
     link: "https://www.youtube.com/watch?v=8XqmsLdle7U",
     rating: "7.5/10",
