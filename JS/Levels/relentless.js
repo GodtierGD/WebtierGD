@@ -7,9 +7,6 @@ export const relentless = {
     },
  
     thumbnail: "./Resources/TB/Relentless.png",
-    tags: [
-        "./Resources/Tags/tagNEW.png"
-    ],
  
     link: "https://www.youtube.com/watch?v=k3yiAZl3vQw",
     rating: "9/10",
