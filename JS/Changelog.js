@@ -21,6 +21,12 @@
 ==================================================== */
  
 const changelogData = [
+   {
+        date: "20/10/2026",
+        entries: [
+            { level: "Betrayal Of Fate", info: "was placed at #14 (Above WcropoliX & Below Quantum Processing)" }
+        ]
+    },
     {
         date: "16/10/2026",
         entries: [
