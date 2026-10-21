@@ -20,4 +20,4 @@ export const bof = {
         beatWhen: 784,          
         wf: 97,
         count: ""                   
-    }
+    };
