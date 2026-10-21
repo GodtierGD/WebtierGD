@@ -7,6 +7,9 @@ export const bof = {
     },
  
     thumbnail: "./Resources/TB/no thumbnail.png",
+    tags: [
+        "./Resources/Tags/tagNEW.png"
+    ],
  
     link: "https://www.youtube.com/watch?v=Lq-dBXWkqdM&pp=0gcJCSwMAYcqIYzv",
     rating: "9/10",
