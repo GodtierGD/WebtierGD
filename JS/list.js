@@ -12,6 +12,7 @@ const levelOrder = [
     "vaen",
     "baushavortex",
     "quantumprocessing",
+    "bof",
     "wcropolix",
     "athanatos",
     "eleos",
