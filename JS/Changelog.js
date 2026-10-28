@@ -21,7 +21,25 @@
 ==================================================== */
  
 const changelogData = [
-   {
+    {
+        date: "28/10/2026",
+        entries: [
+            { level: "Surge Of The Shield", info: "was placed at #12 (Above Vaenstep & Below Delta Interface)" }
+        ]
+    },
+    {
+        date: "26/10/2026",
+        entries: [
+            { level: "Zaphkiel", info: "was placed at #8 (Above Catalyze & Below Relentless)" }
+        ]
+    },
+    {
+        date: "22/10/2026",
+        entries: [
+            { level: "CYCLONE", info: "was placed at #49 (Above Raindance & Below Red World Rebirth)" }
+        ]
+    },
+    {
         date: "20/10/2026",
         entries: [
             { level: "Betrayal Of Fate", info: "was placed at #14 (Above WcropoliX & Below Quantum Processing)" }
