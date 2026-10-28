@@ -2,7 +2,7 @@ export const zaph = {
     name: "Zaphkiel",
 
     gradient: {
-        start: "#efc211",
+        start: "#ef8411",
         end: "#7cc6ff"
     },
  
