@@ -8,7 +8,7 @@ export const zaph = {
  
     thumbnail: "./Resources/TB/zaphkiel2.png",
     tags: [
-        "./Resources/Tags/tagX2.png"
+        "./Resources/Tags/tagNEW.png"
     ],
  
     link: "https://www.youtube.com/watch?v=80wDn4VgOd0&t=11s",

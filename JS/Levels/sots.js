@@ -8,7 +8,7 @@ export const sots = {
  
     thumbnail: "./Resources/TB/NAOFUMI DEMON.png",
     tags: [
-        "./Resources/Tags/tagX2.png"
+        "./Resources/Tags/tagNEW.png"
     ],
  
     link: "https://www.youtube.com/watch?v=YHl4setnwo0",
