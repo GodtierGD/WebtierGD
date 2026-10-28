@@ -24,7 +24,8 @@ const changelogData = [
     {
         date: "28/10/2026",
         entries: [
-            { level: "Surge Of The Shield", info: "was placed at #12 (Above Vaenstep & Below Delta Interface)" }
+            { level: "Surge Of The Shield", info: "was placed at #12 (Above Vaenstep & Below Delta Interface)" },
+            { level: "Red World Rebirth", info: "was raised from #50 to #45 (Above Polish Alphabet & Below Volume)" }
         ]
     },
     {
