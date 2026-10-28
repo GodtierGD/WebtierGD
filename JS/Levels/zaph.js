@@ -2,8 +2,8 @@ export const zaph = {
     name: "Zaphkiel",
 
     gradient: {
-        start: "#d0c749",
-        end: "#7ca8ff"
+        start: "#efc211",
+        end: "#7cc6ff"
     },
  
     thumbnail: "./Resources/TB/zaphkiel2.png",
