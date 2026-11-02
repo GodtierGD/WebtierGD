@@ -22,6 +22,18 @@
  
 const changelogData = [
     {
+        date: "1/11/2026",
+        entries: [
+            { level: "Astrophobia", info: "was placed at #34 (Above Barbaros Finale & Below Down Bass)" }
+        ]
+    },
+    {
+        date: "29/10/2026",
+        entries: [
+            { level: "INNARDS", info: "was placed at #35 (Above Aftermath & Below Barbaros Finale)" }
+        ]
+    },
+    {
         date: "28/10/2026",
         entries: [
             { level: "Surge Of The Shield", info: "was placed at #12 (Above Vaenstep & Below Delta Interface)" },

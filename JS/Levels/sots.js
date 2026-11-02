@@ -7,9 +7,6 @@ export const sots = {
     },
  
     thumbnail: "./Resources/TB/NAOFUMI DEMON.png",
-    tags: [
-        "./Resources/Tags/tagNEW.png"
-    ],
  
     link: "https://www.youtube.com/watch?v=YHl4setnwo0",
     rating: "8.5/10",

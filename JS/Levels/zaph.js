@@ -7,9 +7,6 @@ export const zaph = {
     },
  
     thumbnail: "./Resources/TB/zaphkiel2.png",
-    tags: [
-        "./Resources/Tags/tagNEW.png"
-    ],
  
     link: "https://www.youtube.com/watch?v=80wDn4VgOd0&t=11s",
     rating: "8/10",
