@@ -2,8 +2,8 @@ export const astroph = {
     name: "Astrophobia",
 
     gradient: {
-        start: "#a333d3",
-        end: "#593fc0"
+        start: "#6e33d3",
+        end: "#953fc0"
     },
  
     thumbnail: "./Resources/TB/astrophobia.png",

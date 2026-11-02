@@ -3,7 +3,7 @@ export const INNARDS = {
 
     gradient: {
         start: "#920101",
-        end: "#bdb3b3"
+        end: "#864545"
     },
  
     thumbnail: "./Resources/TB/INNARDS.png",
