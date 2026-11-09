@@ -22,6 +22,12 @@
  
 const changelogData = [
     {
+        date: "8/11/2026",
+        entries: [
+            { level: "Knights Of Thunder", info: "was placed at #3 (Above Sonic Wave & Below Citra)" }
+        ]
+    },
+    {
         date: "1/11/2026",
         entries: [
             { level: "Astrophobia", info: "was placed at #34 (Above Barbaros Finale & Below Down Bass)" }

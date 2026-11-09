@@ -6,12 +6,12 @@ export const kot = {
         end: "#df5cc9"
     },
  
-    thumbnail: "./Resources/TB/kot tb.png",
+    thumbnail: "./Resources/TB/no thumbnail.png",
     tags: [
         "./Resources/Tags/tagNEW.png"
     ],
  
-    link: "https://www.youtube.com/watch?v=Js-st6gJvVc",
+    link: "https://www.youtube.com/watch?v=AOeii1XAwlw",
     rating: "7/10",
  
     stats: {

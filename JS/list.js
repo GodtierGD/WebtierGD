@@ -1,6 +1,7 @@
 const levelOrder = [
     "kowareta",
     "citra",
+    "kot",
     "sonicwave",
     "arcticlights",
     "wasureta",
