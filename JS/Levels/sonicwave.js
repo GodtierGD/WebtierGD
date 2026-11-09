@@ -2,8 +2,8 @@ export const sonicwave = {
     name: "Sonic Wave",
 
     gradient: {
-        start: "#b57c43",
-        end: "#ffc386"
+        start: "#4369b5",
+        end: "#86beff"
     },
  
     thumbnail: "./Resources/TB/peggle wave.png",
