@@ -6,7 +6,7 @@ export const kot = {
         end: "#df5cc9"
     },
  
-    thumbnail: "./Resources/TB/no thumbnail.png",
+    thumbnail: "./Resources/TB/kot tb22.png",
     tags: [
         "./Resources/Tags/tagNEW.png"
     ],
