@@ -7,9 +7,6 @@ export const INNARDS = {
     },
  
     thumbnail: "./Resources/TB/INNARDS.png",
-    tags: [
-        "./Resources/Tags/tagNEW.png"
-    ],
  
     link: "https://www.youtube.com/watch?v=xpAEf4Sf4DY",
     rating: "6/10",

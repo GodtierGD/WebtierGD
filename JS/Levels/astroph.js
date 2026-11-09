@@ -7,9 +7,6 @@ export const astroph = {
     },
  
     thumbnail: "./Resources/TB/astrophobia.png",
-    tags: [
-        "./Resources/Tags/tagNEW.png"
-    ],
  
     link: "https://www.youtube.com/watch?v=Js-st6gJvVc",
     rating: "7.5/10",
