@@ -7,9 +7,6 @@ export const kot = {
     },
  
     thumbnail: "./Resources/TB/kot tb22.png",
-    tags: [
-        "./Resources/Tags/tagNEW.png"
-    ],
  
     link: "https://www.youtube.com/watch?v=AOeii1XAwlw",
     rating: "7/10",

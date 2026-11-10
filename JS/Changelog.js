@@ -22,6 +22,13 @@
  
 const changelogData = [
     {
+        date: "9/11/2026",
+        entries: [
+            { level: "Untitled", info: "was placed at #29 (Above Prismatic Haze & Below Shukufuku)" },
+            { level: "Skukufuku", info: "was raised from #28 to #27 (Above Bloodbath & Below To The Blue Moon)" }
+        ]
+    },
+    {
         date: "8/11/2026",
         entries: [
             { level: "Knights Of Thunder", info: "was placed at #3 (Above Sonic Wave & Below Citra)" }
