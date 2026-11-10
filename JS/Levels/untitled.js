@@ -6,7 +6,7 @@ export const untitled = {
         end: "#5831b4"
     },
  
-    thumbnail: "./Resources/TB/Untitled-tb.png",
+    thumbnail: "./Resources/TB/Untitled-tb22.png",
     tags: [
         "./Resources/Tags/tagNEW.png"
     ],
