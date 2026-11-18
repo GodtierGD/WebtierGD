@@ -2,8 +2,8 @@ export const EM = {
     name: "Eternal Moment",
     
     gradient: 
-    { start: "#75c5f0", 
-        end: "#b4efff" },
+    { start: "#759ef0", 
+        end: "#b4d3ff" },
 
     thumbnail: "./Resources/TB/eternal moment.png",
 
