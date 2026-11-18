@@ -10,6 +10,6 @@ export const pagoda = {
     stats: {
         attempts: "~12k",
         percent: 88,
-        line2: "37-100 | Would place #3"
+        line2: "37-100 | Would place #2"
     }
 };
