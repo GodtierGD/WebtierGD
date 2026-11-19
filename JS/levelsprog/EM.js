@@ -8,8 +8,8 @@ export const EM = {
     thumbnail: "./Resources/TB/eternal moment.png",
 
     stats: {
-        attempts: "11.2k",
-        percent: 85,
+        attempts: "11.8k",
+        percent: 86,
         line2: "33-87, 50-100 | Would place #4"
     }
 };
