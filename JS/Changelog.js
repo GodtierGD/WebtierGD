@@ -22,6 +22,12 @@
  
 const changelogData = [
     {
+        date: "20/11/2026",
+        entries: [
+            { level: "Eternal Moment", info: "was placed at #4 (Above Sonic Wave & Below Knights Of Thunder)" }
+        ]
+    },
+    {
         date: "9/11/2026",
         entries: [
             { level: "Untitled", info: "was placed at #29 (Above Prismatic Haze & Below Shukufuku)" },

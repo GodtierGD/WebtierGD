@@ -7,9 +7,6 @@ export const untitled = {
     },
  
     thumbnail: "./Resources/TB/Untitled-tb22.png",
-    tags: [
-        "./Resources/Tags/tagNEW.png"
-    ],
  
     link: "https://www.youtube.com/watch?v=BQzhVT9fmHY&t=5s",
     rating: "8/10",
