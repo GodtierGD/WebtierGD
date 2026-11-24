@@ -22,6 +22,13 @@
  
 const changelogData = [
     {
+        date: "22/11/2026",
+        entries: [
+            { level: "SMASH", info: "was placed at #52 (Above The Flawless & Below Polish Alphabet)" },
+            { level: "Astral Vortex", info: "was placed at #62 (Above Sweater Weather & Below Acu)" }
+        ]
+    },
+    {
         date: "20/11/2026",
         entries: [
             { level: "Eternal Moment", info: "was placed at #4 (Above Sonic Wave & Below Knights Of Thunder)" }

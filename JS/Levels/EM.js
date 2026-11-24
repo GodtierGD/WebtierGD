@@ -7,9 +7,6 @@ export const EM = {
     },
  
     thumbnail: "./Resources/TB/eternal moment.png",
-    tags: [
-        "./Resources/Tags/tagNEW.png"
-    ],
  
     link: "https://www.youtube.com/watch?v=eV67vjxXbAY",
     rating: "10/10",

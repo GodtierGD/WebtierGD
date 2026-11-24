@@ -50,6 +50,7 @@ const levelOrder = [
     "volume",
     "rwr",
     "polishalpha",
+    "SMASH",
     "theflawless",
     "catplanet",
     "proteus",
@@ -59,6 +60,7 @@ const levelOrder = [
     "cataclysm",
     "artificialdream",
     "acu",
+    "ASTRALV",
     "sweaterweather"
 ];
 
