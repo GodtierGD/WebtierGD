@@ -3,7 +3,7 @@ export const untitled = {
 
     gradient: {
         start: "#1082d3",
-        end: "#5831b4"
+        end: "#3138b4"
     },
  
     thumbnail: "./Resources/TB/Untitled-tb22.png",
