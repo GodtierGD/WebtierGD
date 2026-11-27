@@ -12,6 +12,8 @@
 ==================================================== */
 
 const progOrder = [
+    "aquatic",
+    "widestep",
     "spacial",
     "dubkore",
     "whirlfate",
