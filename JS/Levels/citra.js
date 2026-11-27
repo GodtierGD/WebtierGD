@@ -2,9 +2,9 @@ export const citra = {
     name: "Citra",
  
     gradient: {
-        start: "#aeaeae",
-        end: "#d2d2d2"
-    },
+            start: "#b57c43",
+            end: "#ffc386"
+        },
 
     thumbnail: "./Resources/TB/citra.png",
     tags: [

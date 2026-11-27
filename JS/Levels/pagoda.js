@@ -1,9 +1,10 @@
 export const pagoda = {
     name: "Pagoda",
 
-    gradient: { 
-        start: "#ff6d01", 
-        end: "#ffa967" },
+    gradient: {
+            start: "#aeaeae",
+            end: "#d2d2d2"
+        },
 
     thumbnail: "./Resources/TB/Pagoda.png",
     tags: [

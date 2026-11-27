@@ -2,8 +2,8 @@ export const kot = {
     name: "Knights Of Thunder",
 
     gradient: {
-        start: "#b57c43",
-        end: "#ffc386"
+        start: "#aa6ee5",
+        end: "#4e3ac3"
     },
  
     thumbnail: "./Resources/TB/kot tb22.png",
