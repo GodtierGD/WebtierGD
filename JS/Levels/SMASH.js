@@ -7,9 +7,6 @@ export const SMASH = {
     },
  
     thumbnail: "./Resources/TB/smash.png",
-    tags: [
-        "./Resources/Tags/tagNEW.png"
-    ],
  
     link: "https://www.youtube.com/watch?v=zOXvCVeOEBQ",
     rating: "6.5/10",

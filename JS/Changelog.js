@@ -22,6 +22,12 @@
  
 const changelogData = [
     {
+        date: "25/11/2026",
+        entries: [
+            { level: "Pagoda", info: "was placed at #2 (Above Citra & Below Kowareta)" }
+        ]
+    },
+    {
         date: "22/11/2026",
         entries: [
             { level: "SMASH", info: "was placed at #52 (Above The Flawless & Below Polish Alphabet)" },

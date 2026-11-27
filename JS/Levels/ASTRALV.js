@@ -8,7 +8,6 @@ export const ASTRALV = {
  
     thumbnail: "./Resources/TB/ASTRAL V.png",
     tags: [
-        "./Resources/Tags/tagNEW.png",
         "./Resources/Tags/tagVERIFIER.png",
         "./Resources/Tags/tagUNRATED.png"
     ],

@@ -12,7 +12,6 @@
 ==================================================== */
 
 const progOrder = [
-    "pagoda",
     "spacial",
     "dubkore",
     "whirlfate",

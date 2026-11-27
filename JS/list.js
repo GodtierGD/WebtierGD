@@ -1,5 +1,6 @@
 const levelOrder = [
     "kowareta",
+    "pagoda",
     "citra",
     "kot",
     "EM",
